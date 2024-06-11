@@ -33,7 +33,7 @@ def transcribe_youtube_video(YOUTUBE_VIDEO: str, save_as: str):
             file.write(transcription)
 
 
-def transcribe_audio_file(audio_path:str, save_as: str):
+def transcribe_audio_file(audio:str, save_as: str):
     TRANSCRIPTION_FILE = os.path.join(DATA_PATH, f"{save_as}.txt")
  
     if not os.path.exists(TRANSCRIPTION_FILE):

@@ -1,0 +1,1354 @@
+Received: 11 September 2023
+Revised: 15 November 2023
+Accepted: 16 November 2023
+DOI: 10.1111/conl.12996
+R E V I E W
+Small mice create big problems: Why Predator Free New
+Zealand should include house mice and other pest species
+Araceli Samaniego1
+Andrea E. Byrom2
+Markus Gronwald3
+John G. Innes4
+James T. Reardon5
+1Manaaki Whenua — Landcare Research,
+Auckland, New Zealand
+2Independent Environmental Consultant
+and Te P¯
+unaha Matatini, Canterbury,
+New Zealand
+3Manaaki Whenua — Landcare Research,
+Lincoln, New Zealand
+4Manaaki Whenua — Landcare Research,
+Hamilton, New Zealand
+5Te Papa Atawhai/Department of
+Conservation, Te Anau, New Zealand
+Correspondence
+Araceli Samaniego, Manaaki Whenua —
+Landcare Research, Auckland,
+Aotearoa/New Zealand.
+Email:
+SamaniegoA@landcareresearch.co.nz
+Funding information
+Ministry of Business, Innovation and
+Employment: Strategic Science
+Investment Fund
+Abstract
+Predator Free 2050 (PF2050) is a government initiative aiming to eradicate
+selected invasive mammals (mustelids, rats, and possums) from New Zealand
+(NZ) by 2050. Selecting which of 32 introduced mammal species to include has
+received little evaluation, yet targeting a few species often results in perverse
+ecological outcomes given interactions within the invasive guild. We explore
+how PF2050 could be improved strategically by focusing on biodiversity out-
+comes instead of selectively targeting invasives, using rodents as an example.
+Current PF2050 targets include all rat species (Rattus exulans, R. norvegicus, and
+R. rattus), but not the house mouse (Mus musculus). Mice can be as damag-
+ing as rats when competition and predation are removed, negating benefits of
+rat removal. Multirodent eradications are more cost-effective and prevent meso-
+predator release. Using a case study, we show adding mice to a rat eradication
+would raise costs modestly, comparing favorably to independent mouse eradica-
+tion later, which would be riskier and more socially and economically costly than
+the preceding rat eradication. Missing the opportunity to tackle all rodents simul-
+taneously, leaving mice to multiply in numbers and impacts, could have serious
+environmental and socioeconomic consequences. Naïve eradication strategies
+neglecting ecological expertise risk biodiversity outcomes and NZ’s eradication
+science reputation.
+K E Y WO R D S
+ecology, invasive species management, landscape ecological restoration, multispecies eradica-
+tion, Mus musculus, rodent
+1
+INTRODUCTION
+Aotearoa New Zealand (NZ) faces a biodiversity crisis.
+At least 63 native species have become extinct since the
+arrival of humans, and 4374 species are threatened or at
+risk of extinction according to the NZ Threat Classification
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the
+original work is properly cited.
+© 2024 The Authors. Conservation Letters published by Wiley Periodicals LLC.
+System (https://nztcs.org.nz/). The causes are multifac-
+torial; however, being an insular country with no native
+terrestrial mammals apart from bats, the introduction
+of invasive mammals has been particularly devastating
+(Clout, 2001). There are 32 species of introduced mammals
+in the wild in NZ (King & Forsyth, 2021), with diverse size
+Conservation Letters. 2024;17:e12996.
+wileyonlinelibrary.com/journal/conl
+1 of 12
+https://doi.org/10.1111/conl.12996
+
+--------------------------------------------------------------------------------
+SAMANIEGO et al.
+2 of 12
+(from rodents to ungulates), habits (terrestrial to arboreal),
+and diets (herbivorous, omnivorous, and carnivorous), of
+which 14 species are widespread (Tables S1 and S2). In
+addition to the ecological damage caused, some invasives
+(e.g., Australian brushtail possum Trichosurus vulpecula
+and domestic cat Felis catus) have profound impacts on
+agriculture and human and livestock health (Clout, 2001).
+Active management of established pests has two
+approaches: eradication or control. Eradication involves
+complete removal of the target population in a discrete
+time interval; control aims to suppress the number of
+pests to a target level and is done recurrently and in
+perpetuity (Bomford & O’Brien, 1995). Eradication tech-
+niques pioneered in NZ are now a major restoration tool
+on islands worldwide (Spatz et al., 2022). In NZ, 117 off-
+shore islands have been cleared of invasive mammals
+(Russell & Broome, 2016), with strong outcomes for ecosys-
+tem recovery (Towns, 2011; Prior et al., 2018). In addition
+to true geographical islands, ring-fenced ecosanctuaries
+(Innes et al., 2019) created with predator-resistant fences
+have also benefited from mammal eradications, although
+mouse reinvasion limits ecological recovery in some eco-
+sanctuaries (Watts et al., 2022). On the North and South
+Islands (hereafter mainland NZ), control programs are
+implemented to reduce impacts of invasive mammals on
+threatened species and ecosystems (Innes et al., 2023). Sus-
+tained effort is key to sustaining benefits; thus, it is socially,
+environmentally, and financially costly in the long term.
+Further, resources are insufficient to treat all areas.
+The Predator Free 2050 (PF2050) initiative was launched
+by the NZ government in 2016 to eradicate mustelids
+(Mustela spp.), rats (Rattus spp.), and possums from main-
+land NZ by the year 2050 (Russell et al., 2015). PF2050
+funds large-scale control and eradication trials, and devel-
+opment of potential new tools. However, PF2050 has
+been criticized for shortfalls in eradication technology,
+insufficient finance, low scalability of existing tools, and
+inadequate consideration of social and ecological com-
+plexity, each of which erodes viability of the initiative
+(King, 2023; Leathwick & Byrom, 2023; Linklater & Steer,
+2018; Monks et al., 2023; Parkes et al., 2017; Peltzer et al.,
+2019). National biosecurity, that is, safeguarding from
+repeated international pest invasions, for example, has not
+been assessed despite being a prerequisite for eradication
+(Kennedy & Broome, 2019), and NZ’s ability to manage
+pest reinvasions locally and regionally remains question-
+able (Barron et al., 2023). Between 2016/17 and 2020/21
+NZ$306.28 million has been spent under the Predator
+Free umbrella, mostly on pest control which reduces to
+NZ$212.28 million if investments in habitat restoration
+and targeted biodiversity protection are subtracted (DOC,
+2021). Investment in focused and strategically led erad-
+ication exemplars is a very small aspect of the overall
+investment. The national strategy (DOC, 2020) does not
+address basic criteria for feasibility of eradication (Bom-
+ford & O’Brien, 1995; Peltzer et al., 2019). We argue
+that all eradication exemplars should do so, in order to
+increase viability of the national goal. This and many
+other strategic improvements are required. We explore
+these wider strategic shortcomings using rodents as an
+example.
+Four species of invasive rodents are present in NZ.
+Pacific rat or kiore (Rattus exulans) arrived first with Poly-
+nesian settlers in the early 13th century; they have ongoing
+impacts on native flora and fauna that did not evolve with
+rats (Towns, 2009). Norway rats (R. norvegicus) arrived dur-
+ing the 18th century on European ships, and house mice
+(Mus musculus; hereafter mouse or mice) and ship rats
+(R. rattus) a century later (Veale et al., 2018). Since intro-
+duction to NZ, mice became more ecologically widespread
+than in Eurasia because they encountered fewer com-
+petitors and predators (Murphy & Nathan, 2021). Mouse
+distribution and abundance are influenced by the presence
+of larger, dominant predators and competitors, for exam-
+ple, rats and stoats (Mustela erminea) (Watts et al., 2022).
+PF2050 targets all three rat species, but not mice (DOC,
+2020; Tompkins, 2018). Such reductionist management
+often has perverse ecological outcomes given complex
+interactions among species; foreseeing such responses
+should be embedded in any eradication strategy (Glen
+et al., 2013; Zavaleta et al., 2001), but particularly for
+PF2050 (Peltzer et al., 2019). Moreover, because mouse
+impacts can be as dramatic as rat impacts, mice and rats
+are routinely targeted simultaneously in control programs
+and island rodent eradications (see below).
+It is not clear why mice were excluded from the PF2050
+goal. Beyond a small survey of 19 stakeholders (Tomp-
+kins, 2018), there is no published account of the process
+by which possums, rats, and mustelids were chosen. For
+example, while kiore are included in the goal, this species
+has localized ecological effects and has cultural signifi-
+cance in some areas (Towns, 2009), whereas mice arguably
+have a more significant impact at a national scale, a con-
+cern that was noted by ecosanctuary survey participants at
+the time. A robust analysis of the species for inclusion in
+such a significant national initiative could have considered
+multidimensional political, social (Liang, 2023), cultural,
+and financial aspects of the campaign as well as the prac-
+tical aspects of planning for eradication, ensuring that the
+consequences of eradicating select species are evaluated.
+Indeed, a major criticism of the PF2050 campaign to
+date is that desired outcomes for biodiversity have not
+been clearly articulated (Leathwick & Byrom, 2023; Innes
+et al., 2023). Given the known impacts of mice on NZ’s
+native flora and fauna, their impacts on biodiversity loss
+globally, and their propensity for mesopredator release
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+3 of 12
+SAMANIEGO et al.
+TA B L E 1
+Completed and planned house mouse eradications on islands >10 km2.
+Island
+Country
+Size
+(km2)
+Other
+target
+rodents?
+Other target
+mammals?
+Eradication
+date
+Reference
+COMPLETED
+South Georgiaa,b
+UK
+3528
+Yes
+No
+2011–2015
+Martin & Richardson (2017)
+Macquarie
+Australia
+129
+Yes
+Yes
+2011
+Springer (2018)
+Rangitoto-
+Motutapuc
+NZ
+38
+Yes
+Yes
+2009
+Griffiths et al. (2015)
+Antipodes
+NZ
+20
+No*
+No*
+2016
+Horn et al. (2019)
+Lord Howec
+Australia
+15
+Yes
+Yes
+2019
+Harper et al. (2020)
+Te Puka-Hereka
+(Coal)
+NZ
+12
+No*
+Yes
+2008
+Broome et al. (2019)
+PLANNED
+Auckland
+NZ
+445
+No*
+Yes
+TBD
+Horn et al. (2022)
+Marionb
+SA
+300
+No*
+No*
+2026
+Connan et al. (2023)
+Guadalupec
+Mexico
+242
+No*
+Yes
+TBD
+GECI (2021)
+Floreanac
+Ecuador
+170
+Yes
+Yes
+2023
+Island Conservation (2020)
+aEradicated area was 1068 km2 (the rest were rodent-free glaciers).
+bResearch station only.
+cInhabited island.
+*Only mice present.
+TBD, to be determined; NZ, New Zealand; SA, South Africa; UK, United Kingdom.
+(see below), this is a major oversight and an opportunity
+missed. We argue that focusing on the desired outcomes for
+biodiversity (part of any feasibility study as recommended
+by eradication best practice) would have clearly high-
+lighted mice as a potentially significant issue to address
+in the PF2050 campaign. Moreover, the exclusion of mice
+highlights how a focus on top-down control and eradica-
+tion methods is often employed without reference to the
+potentially stronger bottom-up effects of resource avail-
+ability (King, 2023). Mice are a driving component of
+stoat diets (White & King, 2006), so removal of mice (as
+a primary prey of stoats) is likely to be a critical com-
+ponent of the eventual eradication of that species (by
+reducing primary food resource availability and hence
+stoat survival), especially considering limitations of cur-
+rent and near-future tools. Targeting mice alongside rats
+within the PF2050 context is an extraordinary opportu-
+nity in ecological, financial, and social terms, capitalizing
+on the advantages of multispecies eradication strategies,
+particularly given the same eradication approach is com-
+monly used for all rodents (Howald et al., 2007; Table 1).
+Below, we outline current knowledge on impacts of mice
+in global and national contexts, providing insights from
+recent research. We then discuss the prospects of eradi-
+cating mice or controlling them in perpetuity, and lessons
+from global island rodent eradications. Finally, a case study
+illustrates how expanding rat eradication to all-rodent
+eradication compares favorably financially, augmenting
+social and ecological benefits.
+2
+HOUSE MOUSE IMPACTS
+2.1
+Global impacts
+Mice, with a global distribution second only to humans,
+are a major threat to biodiversity, economies and human
+health, hence their inclusion on the IUCN’s list “100 of
+the world’s worst invasive species” (Lowe et al., 2000).
+As opportunistic omnivores, mice directly and indirectly
+impact natural systems via consumption of seeds, plants,
+and a wide range of animals, often consuming propor-
+tionally more animal than plant matter (Shiels & Pitt,
+2014). Known for their preference for invertebrates, mouse
+predation can have profound consequences given the cru-
+cial roles of invertebrates in ecosystem functioning, for
+example, pollination (St Clair, 2011). Moreover, where mice
+have depleted available invertebrates, they often exploit
+larger prey such as seabirds (Caravaggi et al., 2019). Indeed,
+dramatic examples come from islands where mice are
+either the only introduced mammal or the only species not
+yet eradicated (Angel et al., 2009). For example, on Gough
+Island an estimated 2 million eggs and chicks are preyed
+on by mice annually (Caravaggi et al., 2019); a 2021 eradi-
+cation attempt yielded dramatic increases in 2022 hatching
+success for several species of seabirds (RSPB, 2022). On
+Marion Island, early signs of mouse attacks on seabirds
+were recorded in 2003, 12 years after cats were eradicated;
+today mice regularly attack and kill seabird chicks and
+adults (Connan et al., 2023). Similarly, on Midway Atoll
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+SAMANIEGO et al.
+4 of 12
+mice were first recorded attacking seabirds in 2015, 19 years
+after ship rat eradication (Duhr et al., 2019). Collectively,
+these reports emphasize the remarkably short timeframes
+within which mice can change diet, and that novel ecolog-
+ical impacts play out years after removal of predators or
+competitors.
+Mice also impact human systems (Nghiem et al., 2013).
+Their impacts on agriculture are well known globally;
+crop consumption and contamination of storage areas and
+facilities translate to multimillion-dollar losses (Stenseth
+et al., 2003). In Australia, mouse plagues have become
+a regular feature in grain-producing regions over several
+decades, with densities reaching a staggering 2716 mice/ha
+(Singleton et al., 2007). The advent of “conservation agri-
+culture” in Australia, which is more environmentally
+sensitive and economically viable, may generate higher
+mouse populations via less disturbance of burrows and
+increased cover and food supply, necessitating new pest
+management frameworks (Ruscoe et al., 2021). Mouse
+impacts on food security are linked to global warming and
+climate instability (Singleton et al., 2010), with impacts
+expected to worsen.
+Mice exacerbate human stress and fear (Randler et al.,
+2012) and are also vectors and reservoirs of human and
+livestock pathogens, transmitting viral, bacterial, rick-
+ettsial, and parasitic diseases, including toxoplasmosis,
+leptospirosis, salmonellosis, and campylobacteriosis, as
+well as endo- and ectoparasites such as tapeworms and
+fleas (Blackwell, 1981; Charrel & de Lamballerie, 2010).
+Among commensal rodents, mice are typically closest to
+humans in both urban and rural environments: multiple
+pathogenic bacteria associated with human diseases have
+been found in mice (Williams et al., 2018).
+2.2
+New Zealand impacts
+The abundance of mice in NZ is predictably variable.
+Studies describe a range of densities with a maximum of
+157 mice/ha in a fenced ecosanctuary where other mam-
+mals had been eradicated (Goldwater, 2007). In native
+forest ecosystems, mouse populations are driven by seed
+production (King, 1983). Dominant tree species in these
+forests exhibit synchronized seeding (masting) events that
+often produce dramatic increases in population densities
+(Ruscoe et al., 2005). Similar relationships occur in mid-to
+high-altitude native grassland ecosystems, where abun-
+dance of invertebrates and lizards is inversely related to
+mouse abundance (Norbury et al., 2023).
+Mouse diets in NZ are varied but dominated by plants
+and invertebrates (Murphy & Nathan, 2021). Evidence of
+mice as predators of larger and sometimes threatened prey
+in NZ first emerged in the 1970s. A study of mouse ecology
+on Mana Island, where mice were the only mammalian
+predator, found that mice ate native lizards, with skinks
+comprising up to 20% of the diet (Bellingham, 1990). Mouse
+eradication on Mana enabled the threatened MacGregor’s
+skink (Oligosoma macgregori), goldstripe gecko (Woodwor-
+thia chrysosiretica), and Cook Strait giant weta (Deinacrida
+rugosa) to recover (Newman, 1994). Emerging NZ evidence
+suggests mice can not only suppress invertebrate popu-
+lations but also influence their body size (Watts et al.,
+2022).
+While impacts on threatened taxa are generally cryp-
+tic and unreported, mice have been recorded preying on
+large (>25 cm length) threatened skinks, causing a strong
+decline in survival compared to a population protected
+from mice (Norbury et al., 2014). Mice also prey on other
+threatened lizards and birds (Michelsen-Heath & Gaze,
+2007). Despite these reports, most mouse impacts on bio-
+diversity in NZ remain unknown, as threatened species
+are neither monitored in tandem with invasive predator
+dynamics nor with sufficient frequency and resolution to
+clarify the relationship.
+Climate change also has potential to exacerbate mouse
+impacts in natural and agricultural ecosystems in NZ
+(Holland et al., 2015). Should agricultural practices change
+in favor of either arable or greater sustained vegeta-
+tion cover, farmers could anticipate increased mouse
+abundance and impacts, as in Australia (Ruscoe et al.,
+2021). Any increase in distribution and abundance of mice
+has implications for agriculture and human health in
+NZ given demonstrated links between mice and zoonotic
+infections of public health concern (Morand et al., 2015).
+3
+MANAGEMENT CONSIDERATIONS
+3.1
+Mice in the absence of predators and
+competitors
+Ring- and peninsula-fenced ecosanctuaries provide exper-
+imental arenas to assess how mice respond to removal
+of other mammalian predators because of their ability
+to reinvade these ecosanctuaries (Watts et al., 2022). In
+Tawharanui Open Sanctuary, mouse population indices
+increased from zero prior to eradication (of all other inva-
+sive mammals) to more than 180 mice/100 trap nights
+(Goldwater et al., 2012). Mouse body mass at Tawharanui
+also increased over time, suggesting that mice in NZ (usu-
+ally < 25 g) potentially respond similarly to mice on some
+subantarctic islands where maximum mouse mass (in
+the absence of other mammals) surpasses the 50 g mark
+(Goldwater et al., 2012; Jones et al., 2003). Whether this
+increase in body size observed in NZ is driven by greater
+life expectancy following removal of predators, or resultant
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+5 of 12
+SAMANIEGO et al.
+from rapid natural selection for larger individuals due to
+mesopredator release, has not been determined. Consid-
+ering that on subantarctic islands mice prey on seabirds
+300 times their body mass (Cuthbert & Hilton, 2004), it
+is reasonable to expect dramatic shifts in the predator-
+prey ecology of mice post-PF2050 (Norbury et al., 2023).
+Would mouse control in the absence of predators and com-
+petitors be sufficient to maintain their ecological impacts
+at or below current levels? Notwithstanding the fact that
+we currently lack mouse control tools that are suitable
+for sustained and high frequency use, it would certainly
+be more difficult and costly than at present, as mice are
+likely to expand ecological niches (for example, climb
+more; Innes et al., 2018), and in doing so achieve higher
+densities (Goldwater et al., 2012). Even in circumstances
+where competitors such as rats are only being controlled
+as opposed to eradicated, mesopredator release in mice
+has been observed, resulting in the suppression of native
+lizards (Monks et al., 2023).
+Mouse populations are largely bottom-up regulated by
+food availability (Choquenot & Ruscoe, 2000), so food
+resources (and nesting habitat) would likely increase if
+competitors are removed, enabling exploitation of previ-
+ously unavailable resources (Bridgman et al., 2018). For
+example, mouse densities reach 50/ha on mainland NZ
+with other predatory mammals present (Ruscoe, 2001).
+In contrast, densities after mammal eradications in NZ
+have increased to > 150 mice/ha (Goldwater, 2007). On
+islands where mice lack competitors and predators, den-
+sities of > 1000 mice/ha have been recorded (Polito et al.,
+2022). In dry agricultural areas of Australia, despite a
+diverse assemblage of potential predators of mice, densities
+have been documented at 2716/ha (Singleton et al., 2007),
+illustrating the degree to which dynamics are bottom-up
+(cf. top-down) driven.
+3.2
+Mouse eradications
+Only recently have mice received increasing attention by
+conservationists. Angel et al. (2009) suggested two rea-
+sons for this: scant knowledge of described impacts on
+charismatic fauna and perceived higher failure rates for
+mouse eradications compared to rat eradications. Both
+appear to be the result of mice being understudied and
+therefore underestimated for decades (see above), and
+not being explicitly targeted (or even detected) during
+early rat eradications (Broome et al., 2019). Indeed, many
+rodent eradication failures are explained by human error,
+which once corrected often result in eradication success
+(Samaniego et al., 2021). Fine-tuning best practice for mice
+was key to improving this track record, questioning the
+mindset that “mice are too difficult to eradicate” (Broome
+et al., 2019).
+Up to 2019, mice had been eradicated from 59 islands
+worldwide, including 28 NZ islands (Broome et al., 2019).
+Encouraged by this trend, mouse eradications on large
+islands, some inhabited, are being planned, either tar-
+geting only mice (where no other mammals are present)
+or as part of multispecies eradications (Table 2). Despite
+ever-increasing island size and complexity, the eradication
+success rate for mice has increased notably (Spatz et al.,
+2022) and has been higher than for rat eradications since
+2005 (Samaniego et al., 2021). Conversely, pest-fenced,
+mainland ecosanctuaries have recurrent issues managing
+mice, perhaps due to small juvenile mice passing through
+the fence, although confirming that reinvasion rather than
+incomplete eradication is the main cause requires mark-
+recapture studies (Goldwater et al., 2012; Innes et al., 2019).
+Once inside, mice breed rapidly and become abundant
+because their usual predators and competitors are missing;
+at Maungatautari (central North Island), mice removed
+about half of the litter invertebrates, probably to the detri-
+ment of native fauna relying on this resource (Watts et al.,
+2022).
+NZ researchers have recently begun addressing man-
+agement of mice (Hitchmough et al., 2016), highlighting
+a limited understanding of mouse ecology and limitations
+of existing control tools to protect threatened species and
+ecosystems. One driver of this limitation is the extreme
+paucity of funding for developing control tools for non-
+Predator Free pest predators, due in part to diversion
+of a significant proportion of Department of Conser-
+vation (DOC; the NZ government agency responsible
+for managing biodiversity on public lands) funds into
+PF2050 associated work (DOC, 2021). Other than improved
+mammal-resistant fences, there are currently no approved
+tools for large-scale, long-term mouse control with accept-
+able flow-on effects for mainland NZ, as brodifacoum
+(the most effective rodenticide for mice) is biopersistent
+(Howald et al., 2007) and its use is highly restricted. One
+aim of PF2050 was to incentivize investment in new tools
+and innovations for pest eradications at scale, which pro-
+vides a compelling argument for inclusion of mice as part
+of any multispecies eradication campaign.
+3.3
+Multispecies eradications
+Eradicating mice and rats simultaneously is a logical
+approach because it is cost-effective, less socially taxing
+(as every human structure needs treatment), and the only
+way of avoiding the documented undesired flow-on effects
+of removing rats only (Innes et al., 2023). In fact, all
+global records for mouse eradications are examples of mul-
+tispecies eradications (Table 1). The largest uninhabited
+island cleared of mice is Macquarie (128 km2); the largest
+inhabited island is Lord Howe (14.5 km2) (Table 1). South
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+SAMANIEGO et al.
+6 of 12
+TA B L E 2
+Timeline for the successful Rangitoto-Motutapu multispecies eradication, showing the efficient sequencing while targeting
+eight species of invasive mammals (including four rodent species) in a single operation.
+2009
+2010
+2011
+A
+M
+J
+J
+A
+S
+O
+N
+D
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+J
+F
+M
+A
+M
+J
+J
+Stoat traps pre-baited
+1st
+2nd
+3rd
+Aerial applications of Pestoff 20R rodent bait
+Monitoring for and control of surviving rabbits
+Monitoring for and control of surviving cats
+Monitoring for and control of surviving stoats and hedgehogs
+Monitoring for surviving rodents
+Last cat trapped
+Intensification of trapping grids to target hedgehogs
+Last rabbit captured
+Last hedgehog trapped
+Successful eradication of all target species declared
+Source: Simplified from table 1 in Griffiths et al. (2015).
+Georgia Island (3528 km2) is usually excluded from global
+statistics because it was not a standard rodent eradica-
+tion (baiting done in phases, with large glaciers excluded
+from treatment); however, both rats and mice were eradi-
+cated from the 1068 km2 rodent-occupied part of the island
+(Martin & Richardson, 2017), an order of magnitude larger
+than Macquarie Island. Ongoing planning for Auckland
+Island (460 km2) targets all invasive mammals (mice, cats,
+and pigs Sus scrofa), because “Eradicating all three target
+species is the only way to fully realise the benefits and avoid
+detrimental trophic shift responses” (Horn et al., 2022).
+These are the same reasons why the projects in Table 1
+never considered excluding mice from their eradication
+operations.
+When mice are not eradicated alongside rats and other
+invasive predators, mouse populations increase and dis-
+perse at best, and also change diet and habits resulting
+in rat-like impacts at worst—lessons learned from early,
+selective eradications (e.g., cases in Veitch et al., 2019 and
+previous editions). These lessons prompted subsequent
+eradication operations to remedy mouse impacts, incur-
+ring additional costs and risks to nontarget species with
+repeated toxin use (given aerial baiting using rodenticides
+is the preferred eradication method for any invasive rodent;
+Howald et al., 2007).
+Biosecurity measures to prevent or limit reinvasion by
+mice after eradication are similar to those for rats and
+mustelids; prevention of arrival is vastly preferable and
+more cost-efficient than searching for reinvaders (Kennedy
+& Broome, 2019). A variety of detection devices and tools
+must be distributed widely in likely habitat (within and
+outside eradication zones) and maintained with fresh lure.
+Trained rodent dogs detect both rats and mice (Gsell et al.,
+2010), and genetic tools can be used to query if individuals
+are survivors or reinvaders (depending on genetic diver-
+sity). Unmanaged, mice interfere with monitoring devices
+set for other species, removing bait and triggering devices
+including cameras, increasing costs and compromising
+rapid detection and elimination of rats (Wilson et al., 2018).
+4
+CASE STUDY
+We used the successful island eradication from Rangitoto-
+Motutapu, NZ, to retrospectively compare cost and opera-
+tional differences between the implemented multispecies
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+7 of 12
+SAMANIEGO et al.
+eradication and theoretical scenarios targeting rats and
+mice in separate operations. The brief descriptions of the
+islands and the eradication operation are based on Griffiths
+et al. (2015).
+The Rangitoto-Motutapu complex (two islands artifi-
+cially connected) is 3 km offshore from the largest city
+(Auckland) in NZ. Rangitoto is forested and Motutapu is
+dominated by pastoral farmland with areas of regenerat-
+ing forest and wetlands. In 2009, rodents (all three rat
+species and mice) were eradicated from the island com-
+plex (3842 ha) at the start of a multispecies eradication
+operation, which also eradicated cats, rabbits (Oryctolagus
+cuniculus), hedgehogs (Erinaceus europaeus), and stoats,
+that is, all eight species of invasive mammals present
+(Table 2). The main rodent eradication method was the
+aerial application of brodifacoum bait, with nearly 1000
+bait stations inside buildings as a complementary method.
+Rangitoto-Motutapu are representative of mainland NZ
+in that they include native forest, farmland, and human-
+made structures, along with a common suite of introduced
+predators including rats and mice. On Motutapu, farm-
+ing operations were suspended during the eradication
+operation and stock were removed from the island for
+approximately four months.
+Although the efficiencies and savings of eradicating
+all rodent species simultaneously were clear from the
+planning process (Griffiths et al., 2015), there were, in
+theory, three potential management scenarios: (1) rat erad-
+ication, (2) rodent (rat and mouse) eradication, and (3)
+two separate eradications (rat, then mouse when deemed
+necessary) (Table 3). A rat eradication, ignoring mice,
+would resemble the current PF2050 approach; however,
+it was never considered a viable option despite poten-
+tial savings of 22.5% (Table 3), mainly because leaving
+mice behind would negate benefits of rat eradication,
+and biosecurity for rats would be extremely difficult and
+costly with mice present, eventually negating initial sav-
+ings. Instead, a rodent (rat and mouse) eradication was
+implemented given that moderate operational and cost
+increases (Table 3) were expected to yield vastly better
+long-term social, economic, and environmental outcomes.
+In practice, this meant implementing similar procedures
+(as for rat eradication) to the highest standard, and carry-
+ing out a third bait drop (which also targeted the larger
+target species). Finally, under Scenario 3 (separate, inde-
+pendent eradications), a subsequent mouse eradication
+would have faced higher operational risk and been more
+expensive and more socially taxing than the preceding rat
+eradication, as mice are expected to be more abundant after
+rat removal. We estimate this approach would have raised
+the cost of clearing all rodents by about 77% (Table 3).
+Indeed, Griffiths et al. (2015) noted that “When compared to
+other projects that targeted the same [eight] species but indi-
+vidually, we estimate the Rangitoto and Motutapu project
+to have cost less than 50% of the total potential cost if each
+species had been removed in a discrete operation. Logisti-
+cal efficiencies created by condensing several operations into
+one and the use of eradication and detection techniques that
+targeted multiple species are credited as having the greatest
+influence on the increased efficiencies observed.”
+We identified four risk categories in separating rat and
+mouse eradications (Scenario 3).
+Financial
+Costs for planning and preparing aerial toxin applica-
+tions average 69% (11%–142%, n = 11) of the implemen-
+tation costs (Holmes et al., 2015), which would occur
+twice (years to decades apart) under Scenario 3. Like-
+wise, recruitment and training of field staff, which is
+expensive due to the specialist expertise required, would
+need to be repeated. Infrastructure and communica-
+tion investments (e.g., offices, vehicles, IT, GIS) are also
+lost between eradications under Scenario 3 as in New
+Zealand such investments are often rapidly redeployed for
+other uses. Biosecurity costs after rat eradication would
+also increase significantly as a result of interference by
+mice.
+Technical
+Mice, even at low density, interfere with bait, traps, and
+detection devices, which complicates rat eradication and
+compromises post-rat-eradication biosecurity monitoring.
+Rat biosecurity protocols in the presence of mice would
+need to account for frequent mistaken reports of “rats”
+constantly triggering costly incursion responses by highly
+experienced staff (to discern between rat and mouse
+sign).
+Social
+Independent eradications require significantly more toxin,
+with repeated, prolonged site access and restrictions on
+human activities. Farming activities, for example, would
+cease twice under Scenario 3. This poses a risk to the chal-
+lenging acquisition of social license and permissions to
+access private properties and would increase the duration
+of risk to domestic pets. Stakeholders would be disap-
+pointed if outcomes of the rat eradication do not meet
+expectations due to subsequent mouse impacts on liveli-
+hoods and wildlife. Lost trust and toxin aversion could thus
+impede or compromise a second eradication.
+Environmental
+On Rangitoto-Motutapu, 147 tons of brodifacoum bait were
+used. The amount of bait required would at least double
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+SAMANIEGO et al.
+8 of 12
+TA B L E 3
+Indicative comparison of risks and impacts of eradication scenarios of our Case Study.
+Category Item
+Scenario 1
+rat eradication
+(ignoring mice)
+Scenario 2
+rodent (rat and mouse)
+eradication
+Scenario 3
+independent rat and
+mouse eradication
+Current PF2050
+approach
+Implemented approach,
+maximizing outcomes
+Rat eradication first,
+mouse eradication
+years later
+Financial
+Infrastructure investment
+(e.g., vehicles, buildings,
+storage, IT, GIS)
+Once
+Once
+Twice
+Planning, permissions & PR
+Once
+Once
+Twice
+Recruitment & training
+Once
+Once
+Twice
+Implementation time
+3 months
+3 months
+3 months + 3 months,
+years later
+Total rounded costs (NZD)
+1,420,000
+1,830,000
+3,250,000
+Total costs per ha (NZD)
+370
+477
+846
+Cost difference from actual (%)
+–22.5
+actual
++77
+Technical
+Mouse interference with bait,
+traps and detection devices
+during and after eradication
+Ongoing
+Avoided
+Ongoing until mouse
+eradication
+Anticoagulant resistance in
+rodents by prolonged
+exposure
+Ongoing (in mice)
+Avoided
+Ongoing until mouse
+eradication
+Social
+Social license and public
+support
+Once
+Once
+Twice
+Negative impact on
+well-being, properties, pets,
+livestock
+Ongoing (from
+mice)
+Avoided
+Ongoing until mouse
+eradication
+Environmental
+Rodenticide contamination
+Ongoing (through
+mouse control)
+Avoided
+Ongoing until mouse
+eradication
+Predation on/competition
+with native species
+Ongoing (from
+mice)
+Avoided
+Ongoing until mouse
+eradication
+Biodiversity and social gains
+Limited
+Maximized
+Limited until mouse
+eradication
+Note: Costs estimated for Scenarios 1 and 3 are based on actual costs of Scenario 2 as implemented for the Rangitoto-Motutapu eradication (Griffiths et al., 2015).
+under Scenario 3, increasing significantly the risk of pri-
+mary and secondary poisoning of native and introduced
+nontarget species (e.g., pets). Biodiversity outcomes after
+rat, but before mouse, eradication can be negligible (Duhr
+et al., 2019).
+5
+DISCUSSION
+Our aim was to examine the strategic shortcomings of a
+laudable national conservation goal: Predator Free 2050 in
+NZ. Invasive rodents are a case in point for the PF2050
+campaign, acknowledging other taxa warrant equal atten-
+tion. Focusing on the desired outcomes for biodiversity
+would have—right from the inception of the campaign—
+shone a spotlight on mice as a key threatening process
+for NZ’s native taxa. By highlighting the lack of inclu-
+sion of mice in PF2050, and demonstrating how cost-
+effective their inclusion would be, we have suggested how
+PF2050 could be improved strategically. Doing so would
+give more explicit consideration to the wider ecosystem
+implications, including biodiversity outcomes, instead of
+selectively targeting invasives. PF2050 undoubtedly must
+be improved, and what is needed, both at the outset
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+9 of 12
+SAMANIEGO et al.
+and on an ongoing basis, is a robust assessment of fea-
+sibility, assumptions, biodiversity goals, current results,
+and delivery of outcomes. This observation is relevant to
+eradication attempts worldwide. Published recommenda-
+tions on species removal in a whole-ecosystem context
+have been available for over 20 years (e.g., Zavaleta et al.,
+2001).
+In addition to having the potential to undo many envi-
+ronmental benefits of removing larger invasive mammals,
+a reductionist approach can also make subsequent con-
+trol or eradication of other invasives more difficult if
+social license needs to be relitigated. The consequences for
+human health and well-being, primary industries, and the
+total financial cost, can be significant. These consequences
+highlight an obligation—particularly when spending pub-
+lic funds—to engage stakeholders early in the process, and
+to update and refine approaches in real time as short-
+comings are revealed and as new information becomes
+available (Towns, 2011).
+Based on our literature review and case study, we have
+four recommendations.
+First, improve leadership. Our assessment has high-
+lighted the important leadership role that national biodi-
+versity agencies should play both in determining conser-
+vation goals and in monitoring progress toward achieving
+them. The Department of Conservation currently has
+responsibility for much of NZ’s biodiversity management,
+and their leadership is vital in applying existing prioritiza-
+tion systems and eradication expertise, managing prioriti-
+zation conflicts between eradication and other strategies,
+formally planning and monitoring pest and biodiversity
+abundance to agreed national standards, and even ensur-
+ing that eradication terminology is universally understood
+across multiple stakeholder groups.
+Second, correct the approach. It is vital to instigate an
+outcomes-driven conservation approach to PF2050 and
+similar large-scale eradications of invasive species glob-
+ally (i.e., management of all key pressures to achieve
+clearly defined ecological outcomes), with robust, detailed
+and ecologically informed consideration of how different
+pests—including mice—should be targeted across land-
+scapes. Measurement of biodiversity and other outcomes
+should be prioritized ahead of body counts of mammal
+predators. The current focus on “predators” has resulted
+in little to no research or operational focus on how ecosys-
+tems are impacted by nontarget pests (e.g., ungulates, pigs,
+cats, dogs, hedgehogs—and mice, not to mention other
+biotic threats such as plant pathogens and invasive inver-
+tebrates). Focusing solely on the eradication of a subset of
+pests in the long term, at the cost of addressing threatened
+species and ecosystem needs in the short-term, places vul-
+nerable biodiversity at unacceptable risk of loss. A critical
+lesson is that selection of target pests should be appropriate
+to the biodiversity gains being sought.
+Third, reevaluate species to target. Mice (among other
+species) should be considered for inclusion as an explicit
+PF2050 target species where biodiversity benefits can
+be expected, aiming for their eradication alongside rats.
+Large-scale projects on mainland NZ, particularly around
+urban areas, require new tools that can address such scales
+and realities, whether a single- or multispecies eradica-
+tion is implemented. For islands where current tools can
+be applied, adding mice as an explicit target species for
+PF2050 requires extra upfront planning, effort, and fund-
+ing (varying regionally according to site complexity, inhab-
+itation, and techniques used). However, past multispecies
+operations (e.g., our case study) have confirmed that such
+scenarios are preferable when compared to the alterna-
+tive: two or more higher-risk separate eradications costing
+potentially >100% extra. Aerial eradications are more cost-
+efficient; ground operations (e.g., in urban areas) are more
+expensive and carry higher operational risks. However,
+effective biosecurity must be resolved and funded prior
+to embarking on eradication if potential successes are to
+be sustained (Kennedy & Broome, 2019). We acknowl-
+edge that including mice would not be without risk:
+rodent eradication campaigns that include mice require
+implementation to the highest standard and can be more
+protracted, and detecting and managing reinvaders require
+extra effort. However, similar biosecurity issues already
+exist for rat eradications and could be addressed with rel-
+atively minor modifications to include mice, which would
+make monitoring easier and cheaper in the long term.
+Finally, engage with eradication experts. It is critical that
+NZ incorporates invasion science expertise and knowledge
+into PF2050. Such expertise and established standards
+of eradication—including robust feasibility planning and
+review—have been essential steps in past successful erad-
+ications and have been globally recognized in the form of
+internationally sought feasibility and operational reviews
+from the Department of Conservation’s Island Eradica-
+tion Advisory Group (Brown et al., 2023; Cromarty et al.,
+2002). With such recognition comes a responsibility to
+ensure that national goals are informed by robust, scien-
+tifically sound expertise, and such expertise should have
+been involved early in the planning of the PF2050 cam-
+paign. As a recognized leader in pest eradications, NZ will
+influence global pest management with decisions made in
+tackling ambitious conservation goals like PF2050. Naïve
+eradication strategies that neglect ecological expertise risk
+failing to achieve biodiversity outcomes and compromise
+NZ’s eradication science reputation.
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+SAMANIEGO et al.
+10 of 12
+AC K N OW L E D G M E N T S
+AS and JI acknowledge Strategic Science Investment fund-
+ing for Crown Research Institutes from the Ministry
+of Business, Innovation and Employment’s Science and
+Innovation Group. Pike Stahlmann-Brown, Keith Broome,
+Grant Norbury, Kerry Brown, Chris Jones, and Kim King
+improved manuscript drafts with their comments. We also
+thank two anonymous reviewers and the Editor for their
+useful comments.
+Open
+access
+publishing
+facilitated
+by
+Landcare
+Research New Zealand, as part of the Wiley - Land-
+care Research New Zealand agreement via the Council of
+Australian University Librarians.
+DATA AVA I L A B I L I T Y S TAT E M E N T
+Data sharing is not applicable to this article as no new data
+were created or analyzed in this study.
+O RC I D
+Araceli Samaniego
+https://orcid.org/0000-0001-7182-
+3790
+AndreaE.Byrom
+https://orcid.org/0000-0002-6042-
+6391
+MarkusGronwald
+https://orcid.org/0000-0003-2521-
+9765
+JohnG.Innes
+https://orcid.org/0000-0002-8635-2116
+R E F E R E N C E S
+Angel, A., Wanless, R. M., & Cooper, J. (2009). Review of impacts of
+the introduced house mouse on islands in the Southern Ocean:
+Are mice equivalent to rats? Biological Invasions, 11, 1743–1754.
+Barron, M., Anderson, D. P., Norbury, G., & Warburton, B. (2023).
+Comment on Cook, B.; Mulgan, N. Targeted mop up and robust
+response tools can achieve and maintain possum freedom on the
+mainland. Animals, 13, 1840.
+Bellingham, M. (1990). Public involvement in island restoration.
+D.R. Towns, C.H. Daugherty, & I.A.E. Atkinson (Eds). Ecological
+restoration of New Zealand islands (pp. 166–169). Department of
+Conservation.
+Blackwell, J. (1981). The role of the house mouse in disease and
+zoonoses. Symposia of the Zoological Society of London, 47, 591–616.
+Bomford, M., & O’Brien, P. (1995). Eradication or control for verte-
+brate pests? Wildlife society bulletin, 23, 249–255.
+Bridgman, L., Innes, J., Gillies, C., Fitzgerald, N., Rohan, M., &
+King, C. (2018). Interactions between ship rats and house mice
+at Pureora Forest Park. New Zealand Journal of Zoology, 45, 238–
+256.
+Broome, K., Brown, D., Brown, K., Murphy, E., Birmingham, C.,
+Golding, C., Corson, P., Cox, A., & Griffiths, R. (2019). House mice
+on islands: Management and lessons from New Zealand. In C.R.
+Veitch, M.N. Clout, A.R. Martin, J.C. Russell, & C.J. West (Eds.).
+Island invasives: Scaling up to meet the challenge (pp. 100–107).
+IUCN.
+Brown, K. P., Broome, K. G., Golding, C., Horn, S., Reardon, J., &
+Cox, F. (2023). Eradication feasibility assessment. Current agreed
+best practice template (Version 1.2 - DOC-7110779). New Zealand
+Department of Conservation.
+Caravaggi, A., Cuthbert, R. J., Ryan, P. G., Cooper, J., & Bond, A.
+L. (2019). The impacts of introduced house mice on the breeding
+success of nesting seabirds on Gough Island. Ibis, 161, 648–661.
+Charrel, R. N., & De Lamballerie, X. (2010). Zoonotic aspects of
+arenavirus infections. Veterinary Microbiology, 140, 213–220.
+Choquenot, D., & Ruscoe, W. A. (2000). Mouse population erup-
+tions in New Zealand forests: The role of population density and
+seedfall. Journal of Animal Ecology, 69, 1058–1070.
+Clout, M. (2001). Where protection is not enough: Active conser-
+vation in New Zealand. Trends in Ecology and Evolution, 16,
+415–416.
+Connan, M., Jones, C. W., Risi, M. M., Smyth, L. K., Oppel, S., Perold,
+V., Stevens, K. L., Daling, R., & Ryan, P. G. (2023). First evi-
+dence of mouse predation killing adult great albatrosses. Biological
+Invasions, 00, 00–00. https://doi.org/10.1007/s10530-023-03177-2
+Cromarty, P. L., Broome, K. G., Cox, A., Empson, R. A., Hutchinson,
+W. M., & McFadden, I. (2002). Eradication planning for invasive
+alien animal species on islands—The approach developed by the
+New Zealand Department of Conservation. In C.R. Veitch & M.N.
+Clout (Eds.). Turning the tide: The eradication of invasive species
+(pp. 85–91). IUCN.
+Cuthbert, R., & Hilton, G. (2004). Introduced house mice Mus mus-
+culus: A significant predator of threatened and endemic birds on
+Gough Island, South Atlantic Ocean? Biological Conservation, 117,
+483–489.
+DOC. (2020). Towards a Predator Free New Zealand: predator Free
+2050 strategy (p. 44). Department of Conservation.
+DOC. (2021). Predator Free 2050 5-year progress report (p. 105).
+Department of Conservation.
+Duhr, M., Flint, E., Hunter, S., Taylor, R. V., Flanders, B., Howald,
+G., & Norwood, D. (2019). Control of house mice preying on adult
+albatrosses at Midway Atoll National Wildlife Refuge. In C.R.
+Veitch, M.N. Clout, A.R. Martin, J.C. Russell, & C.J. West (Eds.).
+Island invasives: Scaling up to meet the challenge (pp. 21–25). IUCN.
+GECI. (2021). Marine birds strategy 2022–2026. Grupo de Ecología y
+Conservación de Islas, A.C.
+Glen, A. S., Atkinson, R., Campbell, K. J., Hagen, E., Holmes, N. D.,
+Keitt, B. S., Parkes, J. P., Saunders, A., Sawyer, J., & Torres, H.
+(2013). Eradicating multiple invasive species on inhabited islands:
+The next big step in island restoration? Biological Invasions, 15,
+2589–2603.
+Gsell, A., Innes, J., De Monchy, P., & Brunton, D. (2010). The suc-
+cess of using trained dogs to locate sparse rodents in pest-free
+sanctuaries. Wildlife Research, 37, 39–46.
+Goldwater, N. (2007). Ecology of house mice within the Tawha-
+ranui Open Sanctuary. Unpublished MSc Thesis, University of
+Auckland.
+Goldwater, N., Perry, G. L. W., & Clout, M. N. (2012). Responses
+of house mice to the removal of mammalian predators and
+competitors. Austral Ecology, 37, 971–979.
+Griffiths, R., Buchanan, F., Broome, K., Neilsen, J., Brown, D., &
+Weakley, M. (2015). Successful eradication of invasive vertebrates
+on Rangitoto and Motutapu Islands, New Zealand. Biological
+Invasions, 17, 1355–1369.
+Harper, G. A., Pahor, S., & Birch, D. (2020). The Lord Howe Island
+rodent eradication: Lessons learnt from an inhabited island. In D.
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+11 of 12
+SAMANIEGO et al.
+M. Woods (Ed.), Proceedings, 29th Vertebrate Pest Conference (pp.
+1–11). University of California.
+Hitchmough, R. A., Adams, L. K., Reardon, J. T., & Monks, J. M.
+(2016). Current challenges and future directions in lizard con-
+servation in New Zealand. Journal of the Royal Society of New
+Zealand, 46, 29–39.
+Holland, E. P, James, A., Ruscoe, W. A., Pech, R. P., & Byrom, A. E.
+(2015). Climate-based models for pulsed resources improve pre-
+dictability of consumer population dynamics: Outbreaks of house
+mice in forest ecosystems. PLOS ONE, 10, e0119139.
+Holmes, N., Campbell, K., Keitt, B., Griffiths, R., Beek, J., Donlan, C.
+J., & Broome, K. G. (2015). Reporting costs for invasive vertebrate
+eradications. Biological Invasions, 17, 2913–2925.
+Horn, S., Greene, T., & Elliott, G. (2019). Eradication of mice from
+Antipodes Island, New Zealand. In C.R. Veitch, M.N. Clout, A.R.
+Martin, J.C. Russell, & C.J. West (Eds.). Island invasives: Scaling up
+to meet the challenge (pp. 131–136). IUCN.
+Horn, S. R., Sagar, R. L., Cox, F. S., Frank, V., Hanley-Nickolls, J.
+R., Jacques, P. J., Leask, E. P., Kirby-Crowe, M., Macdonald, N.
+L., le Lievre, M., Ware, J., & Broome, K. B. (2022). The next fron-
+tier: Assessing the feasibility of eradicating mammalian pests from
+subantarctic Auckland Island. New Zealand Journal of Ecology, 46,
+3500.
+Howald, G., Donlan, C. J, Galván, J. P., Russell, J. C., Parkes, J.,
+Samaniego, A., Wang, Y., Veitch, D., Genovesi, P., Pascal, M.,
+Saunders, A., & Tershy, B. (2007). Invasive rodent eradication on
+islands. Conservation Biology, 21, 1258–1268.
+Innes, J., Fitzgerald, N., Binny, R., Byrom, A., Pech, R., Watts, C.,
+Gillies, C., Maitland, M., Campbell-Hunt, C., & Burns, B. (2019).
+New Zealand ecosanctuaries: types, attributes and outcomes.
+Journal of the Royal Society of New Zealand, 49, 370–393.
+Innes, J., Kelly, C., Fitzgerald, N., Warnock, M., & Waas, J. (2018).
+Detection of wild house mice and other small mammals up trees
+and on the ground in New Zealand native forest. New Zealand
+Journal of Zoology, 45, 227–237.
+Innes, J. G., Norbury, G., Samaniego, A., Walker, S., & Wilson,
+D. J. (2023). Rodent management in Aotearoa New Zealand:
+Approaches and challenges to landscape-scale control. Integrative
+Zoology, 00, 00–00. https://doi.org/10.1111/1749-4877.12719
+Island Conservation. (2020). Floreana Island ecological restoration:
+Rodent and cat eradication operational plan v.7. Island Conserva-
+tion and Galapagos National Park Directorate.
+Jones, A. G., Chown, S. L., & Gaston, K. J. (2003). Introduced house
+mice as a conservation concern on Gough Island. Biodiversity &
+Conservation, 12, 2107–2119.
+Kennedy, E., & Broome, K. (2019). How do we prevent the obstacles to
+good island biosecurity from limiting our eradication ambitions?
+In C.R. Veitch, M.N. Clout, A.R. Martin, J.C. Russell, & C.J. West
+(Eds.). Island invasives: Scaling up to meet the challenge (pp. 478–
+483). IUCN.
+King, C. (2023). Asking the right questions about Predator Free New
+Zealand. New Zealand Journal of Ecology, 47(1), 3558. https://
+newzealandecology.org/nzje/3558.pdf
+King, C. M. (1983). The relationships between beech (Nothofagus sp.)
+seedfall and populations of mice (Mus musculus), and the demo-
+graphic and dietary responses of stoats (Mustela erminea), in three
+New Zealand forests. The Journal of Animal Ecology, 52, 141–166.
+King, C., & Forsyth, D. (2021). The handbook of New Zealand
+mammals. Csiro Publishing.
+Leathwick, J. R., & Byrom, A. E. (2023). The rise and rise of predator
+control: A panacea, or a distraction from conservation goals? New
+Zealand Journal of Ecology, 47, 3515.
+Liang, J. (2023). Igniting public engagement with biodiversity con-
+servation: Exploring the communication of Predator Free 2050 in
+Aotearoa New Zealand. Communication Research and Practice, 9,
+200–215.
+Linklater, W., & Steer, J. (2018). Predator Free 2050: A flawed conser-
+vation policy displaces higher priorities and better, evidence-based
+alternatives. Conservation Letters, 11, e12593.
+Lowe, S., Browne, M., Boudjelas, S., & De Poorter, M. (2000). 100 of
+the world’s worst invasive alien species. Invasive Species Specialist
+Group (ISSG).
+Martin, A. R., & Richardson, M. G. (2017). Rodent eradication scaled
+up: Clearing rats and mice from South Georgia. Oryx, 53, 27–35.
+Michelsen-Heath, S., & Gaze, P. (2007). Changes in abundance and
+distribution of the rock wren (Xenicus gilviventris) in the South
+Island, New Zealand. Notornis, 54, 71.
+Monks, J. M., Besson, A. A., & O’donnell, C. F. J. (2023). Landscape
+scale control of selected mammalian predators fails to protect
+lizards. Biological Invasions, 00, 00–00. https://doi.org/10.1007/
+s10530-023-03160-x
+Morand, S., Jittapalapong, S., & Kosoy, M. (2015). Rodents as hosts
+of infectious diseases: Biological and ecological characteristics.
+Vector-Borne and Zoonotic Diseases, 15, 1–2.
+Murphy, E. C., & Nathan, H. W. (2021). Mus musculus. In C. King &
+D.M. Forsyth (Eds.).The handbook of New Zealand mammals (pp.
+161–240). CSIRO Publishing.
+Newman, D. G. (1994). Effects of a mouse, Mus musculus, eradication
+programme and habitat change on a lizard population on Mana
+Island, New Zealand, with special reference to McGregor’s skink,
+Cyclodina macgregori. New Zealand Journal of Zoology, 21, 443–
+456.
+Nghiem, L. T., Soliman, T., Yeo, D. C., Tan, H. T., Evans, T. A.,
+Mumford, J. D., Keller, R. P., Baker, R. H., Corlett, R. T., &
+Carrasco, L. R. (2013). Economic and environmental impacts of
+harmful non-indigenous species in southeast Asia. PloS ONE, 8,
+e71255.
+Norbury, G., van den Munckhof, M., Neitzel, S., Hutcheon, A.,
+Reardon, J., & Ludwig, K. (2014). Impacts of invasive house
+mice on post-release survival of translocated lizards. New Zealand
+Journal of Ecology, 38, 322–327.
+Norbury, G., Wilson, D. J., Clarke, D., Hayman, E., Smith, J., &
+Howard, S. (2023). Density-impact functions for invasive house
+mouse (Mus musculus) effects on indigenous lizards and inverte-
+brates. Biological Invasions, 25, 801–815.
+Parkes, J., Nugent, G., Forsyth, D., Byrom, A., Pech, R., Warburton,
+B., & Pech, D. (2017). Past, present and two potential futures for
+managing New Zealand’s mammalian pests. New Zealand Journal
+of Ecology, 41, 1–11.
+Peltzer, D. A., Bellingham, P. J., Dickie, I. A., Houliston, G., Hulme,
+P. E., Lyver, P. O. B., Mcglone, M., Richardson, S. J., & Wood, J.
+(2019). Scale and complexity implications of making New Zealand
+predator-free by 2050. Journal of the Royal Society of New Zealand,
+49, 412–439.
+Polito, M. J., Robinson, B., Warzybok, P., & Bradley, R. W. (2022). Pop-
+ulation dynamics and resource availability drive seasonal shifts
+in the consumptive and competitive impacts of introduced house
+mice (Mus musculus) on an island ecosystem. PeerJ, 10, e13904.
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------
+SAMANIEGO et al.
+12 of 12
+Prior, K. M., Adams, D. C., Klepzig, K. D., & Hulcr, J. (2018).
+When does invasive species removal lead to ecological recovery?
+Implications for management success. Biological Invasions, 20,
+267–283.
+Randler, C., Hummel, E., & Prokop, P. (2012). Practical work at school
+reduces disgust and fear of unpopular animals. Society & Animals,
+20, 61–74.
+RSPB. (2022). Why doing nothing is still not an option. Island
+Restoration News: Gough and Henderson.
+Ruscoe, W. A. (2001). Advances in New Zealand mammalogy 1990–
+2000: House mouse. Journal of the Royal Society of New Zealand,
+31, 127–134.
+Ruscoe, W. A., Brown, P. R., Henry, S., Van De Weyer, N., Robinson,
+F., Hinds, L. A., & Singleton, G. R. (2021). Conservation agriculture
+practices have changed habitat use by rodent pests: Implications
+for management of feral house mice. Journal of Pest Science, 95,
+493–503.
+Ruscoe, W. A., Elkinton, J. S., Choquenot, D., & Allen, R. B.
+(2005). Predation of beech seed by mice: Effects of numerical and
+functional responses. Journal of Animal Ecology, 74, 1005–1019.
+Russell, J., & Broome, K. (2016). Fifty years of rodent eradications in
+New Zealand: Another decade of advances. New Zealand Journal
+of Ecology, 40, 197–204.
+Russell, J. C., Innes, J. G., Brown, P. H., & Byrom, A. E. (2015).
+Predator-Free New Zealand: Conservation country. BioScience, 65,
+520–525.
+Samaniego, A., Kappes, P., Broome, K., Cranwell, S., Griffiths, R.,
+Harper, G., Mcclelland, P., Palmer, R., Rocamora, G., Springer,
+K., Will, D., & Siers, S. (2021). Factors leading to successful island
+rodent eradications following initial failure. Conservation Science
+and Practice, 3, e404.
+Shiels, A. B., & Pitt, W. C. (2014). A review of invasive rodent (Rattus
+spp. and Mus musculus) diets on Pacific islands. In R.M. Timm,
+J.M. O’Brien (Eds.). 26th Vertebrate Pest Conference (pp. 161–165).
+Davis, USA: University of California.
+Singleton, G. R., Belmain, S., Brown, P. R., Aplin, K., & Htwe, N.
+M. (2010). Impacts of rodent outbreaks on food security in Asia.
+Wildlife Research, 37, 355–359.
+Singleton, G. R., Tann, C. R., & Krebs, C. J. (2007). Landscape ecology
+of house mouse outbreaks in south-eastern Australia. Journal of
+Applied Ecology, 44, 644–652.
+Spatz, D. R., Holmes, N. D., Will, D. J., Hein, S., Carter, Z. T., Fewster,
+R. M., Keitt, B., Genovesi, P., Samaniego, A., Croll, D. A., Tershy, B.
+R., & Russell, J. C. (2022). The global contribution of invasive verte-
+brate eradication as a key island restoration tool. Scientific Reports,
+12, 13391.
+Springer, K. (2018). Eradication of invasive species on Macquarie
+Island to restore the natural ecosystem. In S. Garnett, J. Woinarski,
+D.B. Lindenmayer, & P. Latch (Eds.). Recovering Australian threat-
+ened species: A book of hope (pp. 13–22). Clayton South, Victoria,
+Australia: CSIRO Publishing.
+St Clair, J. J. H. (2011). The impacts of invasive rodents on island
+invertebrates. Biological Conservation, 144, 68–81.
+Stenseth, N. C., Leirs, H., Skonhoft, A., Davis, S. A., Pech, R. P.,
+Andreassen, H. P., Singleton, G. R., Lima, M., Machang’u, R. S.,
+Makundi, R. H., Zhang, Z., Brown, P. R., Shi, D., & Wan, X. (2003).
+Mice, rats, and people: The bio-economics of agricultural rodent
+pests. Frontiers in Ecology and the Environment, 1, 367–375.
+Tompkins, D. M. (2018). The research strategy for a ‘Predator Free’
+New Zealand. In D.M. Woods (Ed.). Proceedings of the 28thVerte-
+brate Pest Conference (pp. 11–18). Davis, California: University of
+California.
+Towns, D. R. (2009). Eradications as reverse invasions: Lessons from
+Pacific rat (Rattus exulans) removals on New Zealand islands.
+Biological Invasions, 11, 1719–1733.
+Towns, D. (2011). Eradications of vertebrate pests from islands around
+New Zealand: What have we delivered and what have we learned?
+In C.R. Veitch, M.N. Clout, & D.R. Towns (Eds.). Island invasives:
+Eradication and management (pp. 364–371). IUCN.
+Veale, A. J., Russell, J. C., & King, C. M. (2018). The genomic ancestry,
+landscape genetics and invasion history of introduced mice in New
+Zealand. Royal Society Open Science, 5, 170879.
+Veitch C.R., Clout M.N., Martin A.R., & Russell J.C., West C.J. (Eds.).
+(2019). Island invasives: Scaling up to meet the challenge. IUCN.
+Watts, C., Innes, J., Wilson, D. J., Thornburrow, D., Bartlam, S.,
+Fitzgerald, N., Smale, M. C., Cave, V., Barker, G., & Padamsee, M.
+(2022). Do mice matter? Impacts of house mice alone on inverte-
+brates, seedlings and fungi at Sanctuary Mountain Maungatautari.
+New Zealand Journal of Ecology, 46, 1–15.
+White, P. C. L., & King, C. M. (2006). Predation on native birds in
+New Zealand beech forests: The role of functional relationships
+between stoats Mustela erminea and rodents. Ibis, 148, 765–771.
+Wilson, D., Innes, J., Fitzgerald, N., Bartlam, S., Watts, C., &
+Smale, M. (2018). Population dynamics of house mice without
+mammalian predators and competitors. New Zealand Journal of
+Ecology, 42, 192–203.
+Williams, S. H., Che, X., Paulick, A., Guo, C., Lee, B., Muller, D.,
+Uhlemann, A.-C., Lowy, F. D., Corrigan, R. M., & Lipkin, W. I.
+(2018). New York City house mice (Mus musculus) as potential
+reservoirs for pathogenic bacteria and antimicrobial resistance
+determinants. mBio, 9, e00624-00618.
+Zavaleta, E. S., Hobbs, R. J., & Mooney, H. A. (2001). Viewing invasive
+species removal in a whole-ecosystem context. Trends in Ecology
+& Evolution, 16, 454–459.
+S U P P O RT I N G I N FO R M AT I O N
+Additional supporting information can be found online
+in the Supporting Information section at the end of this
+article.
+How to cite this article: Samaniego, A., Byrom,
+A. E., Gronwald, M., Innes, J. G., & Reardon, J. T.
+(2024). Small mice create big problems: why
+Predator Free New Zealand should include house
+mice and other pest species. Conservation Letters,
+17, e12996. https://doi.org/10.1111/conl.12996
+ 1755263x, 2024, 2, Downloaded from https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12996 by Ministry Of Health, Wiley Online Library on [09/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+--------------------------------------------------------------------------------

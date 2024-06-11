@@ -1,6 +1,7 @@
 import os
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 
@@ -16,18 +17,55 @@ def generate_response(user_input):
     model = ChatOpenAI(openai_api_key=OPENAI_API_KEY, model="gpt-3.5-turbo")
     parser = StrOutputParser()
     template = """
-Answer the question based on the context below. If you can't 
-answer the question, reply "I don't know".
+    Answer the question based on the context below. If you can't 
+    answer the question, reply "I don't know".
 
-Context: {context}
+    Context: {context}
 
-Question: {question}
-"""
+    Question: {question}
+    
+    Source: {source}
+    
+    
+    """
     prompt = ChatPromptTemplate.from_template(template)
     vectorstore = pinecone
     retriever = vectorstore.as_retriever()
-    setup = RunnableParallel(context=retriever, question=RunnablePassthrough())
+    
+  
+   # Retrieve context and source metadata
+    retrieval_result = retriever.invoke(user_input)
+    
+    # Extract and print only the metadata['source'] part
+    sources = [doc.metadata['source'] for doc in retrieval_result]
+    # for source in sources:
+    #     print(f"metadata={{'source': '{source}'}}")
+        
+    # context = " ".join([doc.page_content for doc in retrieval_result])
+    source = " ".join(sources)
+    
+    # context = retrieval_result
+    # print("HERES YOUR FUCKING CONTEXT: ", retrieval_result)
+    # source = " ".join([doc.metadata["source"] for doc in retrieval_result])
+    
+    
+    # # Create the input for the prompt
+    # input_data = {
+    #     "context": context,
+    #     "question": user_input,
+    #     "source": source
+    # }
+    
+    setup = RunnableParallel(context=retriever, question=RunnablePassthrough(), source=RunnablePassthrough())
     chain = setup | prompt | model | parser
+    
     response = chain.invoke(user_input)
-    print(response)
-    return response
+
+    
+    # print(f"Response: {response['answer']}")
+    # print(f"Source document: {source}")
+    
+    return response, source
+    
+# answer = generate_response("How is glass recycled in NZ?")
+# print("HERE IS YOUR ANSWER: ", answer)

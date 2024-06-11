@@ -1,0 +1,1706 @@
+Invasive Plant Science and
+Management
+www.cambridge.org/inp
+Research Article
+Cite this article: Lovelock B, Ji Y, Carr A, and
+Blye C-J (2023) Tourists’ (mis)understandings
+of nature: international and domestic visitors’
+perceptions of invasive alien plants in New
+Zealand. Invasive Plant Sci. Manag 16: 240–252.
+doi: 10.1017/inp.2023.30
+Received: 11 May 2023
+Revised: 4 October 2023
+Accepted: 13 October 2023
+First published online: 24 November 2023
+Associate Editor:
+Guillaume Fried, ANSES
+Keywords:
+Cultural perceptions of nature; invasive alien
+species; nonnative species
+Corresponding author:
+Brent Lovelock;
+Email: brent.lovelock@otago.ac.nz
+© The Author(s), 2023. Published by Cambridge
+University Press on behalf of Weed Science
+Society of America. This is an Open Access
+article, distributed under the terms of the
+Creative Commons Attribution licence (http://
+creativecommons.org/licenses/by/4.0/), which
+permits unrestricted re-use, distribution and
+reproduction, provided the original article is
+properly cited.
+Tourists’ (mis)understandings of nature:
+international and domestic visitors’ perceptions
+of invasive alien plants in New Zealand
+Brent Lovelock1
+, Yun Ji2
+, Anna Carr3
+and Clara-Jane Blye4
+1Professor, Department of Tourism, University of Otago, New Zealand; 2Research Assistant, Department of Tourism,
+University of Otago, New Zealand; 3Associate Professor, Department of Tourism, University of Otago, New Zealand
+and 4Instructor, School of Health and Human Performance, Dalhousie University, Halifax, Canada
+Abstract
+Tourism, one of the world largest economic sectors, moves a substantial body of individuals
+and materials about the world and is implicated in the spread of invasive plants and is itself
+impacted by biological invasions that can degrade touristic landscapes and affect destination
+communities. Tourists constitute not only an immediate biological threat, but through their
+landscape and biota preferences also constitute a substantial economic and ecological force that
+has implications for invasive plant management in destinations. Tourists and the tourism
+industry are therefore significant stakeholders in invasive plant introduction, spread, and
+management. This paper discusses an onsite survey (n = 231) of domestic and international
+visitors in New Zealand, a destination where invasive species are an important ecological and
+economic issue. Findings show that visitors have a low understanding of the presence and level
+of threat of invasive plants and express preferences for some plants that are highly invasive.
+However, there were substantial variations across the international sample, with visitors from
+Asian and European ethnicities expressing significantly different attitudes toward a range of
+invasive plants. Asian visitors were more likely to show preferences for some plants that were
+seriously invasive and to be more accepting in general of invasive plants within landscapes and
+less supportive of invasive species eradication. These findings suggest that attitudes toward
+invasive plants and their management may be culturally determined, which poses challenges for
+managers aiming to generate awareness and support from across diverse tourist cohorts for
+invasive species control. There are also challenges for gaining support from the tourism
+industry for invasive plant control programs where particular “charismatic” or attractive
+invasive plants may contribute to touristic landscapes and visitor itineraries.
+Introduction
+New Zealand is an island nation supporting a relatively high number of endemic species
+(McNeely 2011). Tourism is the nation’s major export earner (until the impacts of COVID-19)
+and relies heavily on New Zealand’s endemic fauna and flora, its landscape, and the nation’s
+100% pure and green image (Hayes and Lovelock 2017). However, New Zealand has been
+profoundly affected by invasive alien species (IAS), particularly since the early 19th century
+following European colonization (Beattie 2011). Many areas of New Zealand now comprise
+mixed biodiversity with native and introduced species (De Lange et al. 2009). Yet we know very
+little about how tourists perceive our “invaded” landscapes or the extent to which they may
+support IAS management—especially if this impacts upon tourist vistas.
+Decisions about IAS management are largely based on stakeholders’ perceptions of their
+impacts (Shackleton et al. 2019a). However, attitudes toward IAS can be diverse and are
+influenced by a range of factors (Shackleton et al. 2019a, 2019b). Some IAS may even be
+perceived as having both positive and negative impacts (Kourantidou et al. 2022). This means
+that successful IAS management is often challenging because of the disparate values of multiple
+social groups or stakeholders (Fall 2021; McNeely 2011; Shackleton et al. 2007). Thus,
+incorporating stakeholder perspectives is considered to be critical to the success of IAS
+management (Head 2017; Warren 2001).
+Tourism is a globally important activity involving the international movement of 1.4 billion
+people and domestic movement of 9 billion people (pre-Covid 19; UNWTO 2020). This
+movement significantly contributes to, and is affected by, biological invasions (Anderson et al.
+2015; Barros et al. 2022; Hall and Baird 2013; Oded and Ram 2015; Pickering and Mount 2010).
+Invasive species can decrease the overall naturalness and biodiversity (Villéger and Brosse 2012)
+that many sites rely on as elements of their destination competitiveness (Lovelock 2007). IAS can
+also impact landscape aesthetics and degrade the ecosystem services that support tourism
+activities (Hall 2015). Conversely, some IAS are perceived to enhance destinations from the
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+perspectives of both the visitor and the tourist industry and have
+become entrenched and valued as attractions or tourism products
+(Hayes et al. 2023; Shackleton 2019b).
+However, compared with our ecological understanding of
+invasives, relatively little is known about the critical social
+dimensions of IAS (Yletyinen et al. 2021) and particularly about
+tourists’ perceptions of IAS (Nikodinoska et al. 2014). Research on
+tourists instead more broadly addresses biosecurity perceptions
+and behaviors (e.g., Kim et al. 2021; Melly and Hanrahan 2020).
+While we do know that environmentally engaged visitors may be
+more aware of IAS and supportive of management (Johnson 2022;
+Rossi et al. 2022), our knowledge of how attitudes toward IAS vary
+across social groups is limited. Yet this is potentially important, not
+only because of the cross-national nature of tourism, but also
+because of our increasingly culturally and ethnically diverse
+societies (e.g., Gest 2021). If IAS managers are to develop
+messaging that resonates across and within different social groups,
+then it is important to research the IAS perceptions and attitudes
+held by different social groups. Research already suggests that
+nature and landscape preferences can vary across social groups, for
+example, by race/ethnicity (Buijs 2009; Buijs et al. 2009; Virden
+and Walker 1999). Likewise, the IAS literature acknowledges that
+because perceptions are socially and culturally constructed,
+individuals from different backgrounds and with different demo-
+graphic profiles may be expected to have different perceptions of IAS
+and different attitudes toward their management (Shackleton et al.
+2019b). This has empirical support in some IAS research, for
+example, Solano et al.’s (2022) recent study on firewood and IAS
+translocation, which revealed race and education as the strongest
+predictors of behavior. However, we have yet to fully explore
+potential sociodemographic links with IAS awareness and attitudes.
+Ethnicity and Attitudes toward Nature and IAS
+Considering the focus of this study, to compare national/ethnic
+understandings of and attitudes toward IAS, we draw upon
+literature that more broadly considers ethnic/racial comparisons of
+nature preferences. Previous research has found distinct variations
+in nature/landscape preferences according to ethnicity and cultural
+background (Buijs et al. 2009; Herzog et al. 2000; Kaplan and
+Herbert 1987; Lovelock et al. 2011; Yu 1995). The majority of
+studies on this topic have been undertaken in North America and
+focus on differences between African American, Hispanic, and
+White ethnic/racial groups (e.g., Taylor 2018; Virden and Walker
+1999; for an overview of this body of research, see Whiting
+et al. 2017).
+But more fundamentally, it has been argued that human–nature
+relationships vary cross-culturally. In Western societies, this is
+conceptualized as a human–nature separation (Bruun and Kalland
+2014; Kellert et al. 1995), wherein authentic nature from a Western
+perspective is often portrayed as “wild” and “pristine,” free from
+human-related influences and impacts (e.g., Johnson et al. 2005).
+However, many non-Western and indigenous cultures consider
+nature and the environment as being intertwined with the human
+world, for example, Māori in Aotearoa New Zealand (Harmsworth
+and Awatere 2013).
+Similarly, Asian perspectives of nature, which are particularly
+articulated in Buddhism, Daoism, and Hinduism, portray humans
+and the natural environment as a harmonious unity (Bruun and
+Kalland 2014; Harper and Snowden 2017; Kellert et al. 1995; Tu
+1989). Empirical research does lend support to this view; for
+example, a study of Asian New Zealanders’ relationships with
+nature suggests that their experiences are less reliant on
+perceptions of naturalness (ecological integrity) (Lovelock et al.
+2011), a finding reinforced by Packer et al. (2014) with Chinese
+visitors in Australia. But how such an Asian cosmology of human–
+nature relations may specifically impact perceptions of IAS has not
+been explored. Han (2006) contends that the relationship Chinese
+have with animals and plants differs from that of Westerners
+in that it hinges on understanding what enjoyment the animal or
+plant might provide; the Chinese are not interested in the plant or
+animal for its intrinsic value. Its invasive status may therefore be
+irrelevant.
+Of course, to consider that all Chinese (or all Asians) subscribe
+to a consistent human–nature cosmology runs the risk of
+essentializing Chinese-ness and/or Asian-ness (Li et al. 2021),
+Management Implications
+The fiscal and political realities of invasive plant management
+mean that invasive plant managers need to engage more closely with
+their stakeholders, as invasive plant control is sometimes viewed as
+unnecessary or as itself being environmentally harmful. Where
+invasive plants exist within tourist destinations, this means engaging
+with visitors in order to:
+• increase awareness of invasive plants and the need for their
+management;
+• enlist visitors as “citizen scientists” and/or as volunteers in
+detection and control of invasive plants; and
+• build a constituency of support for ongoing funding of invasive
+plant management.
+To engage effectively with visitors, however, requires an in-depth
+understanding of those visitors and how they perceive invasive
+plants, and what their attitudes are toward invasive plant control. As
+few studies have explored tourists’ awareness of, attitudes toward,
+and understanding of invasive plants, this research contributes in
+two major ways; first by alerting managers to the generally low level
+of awareness and understanding of invasive plants among visitors.
+Managers cannot assume that even local visitors will recognize the
+threats from some invasive plants, particularly those that are
+perceived as “attractive.” Second, the study demonstrates that
+tourists cannot be treated as a homogenous cohort—visitors from
+different countries and ethnicities may not have a shared awareness
+of the invasive plant problem or, importantly, a shared under-
+standing of the importance of invasive plant control.
+The implications of the above are:
+1. Managers need to adopt different approaches for different
+tourist segments in order to provide convincing and effective
+messaging regarding the invasive plant problem.
+2. Managers may need to take cultural advice upon how best to
+communicate such messages.
+3. Managers will need to work with the tourism industry (i.e.,
+tourist guides and companies) to identify the best mechanisms
+for engaging with a diverse cohort of visitors.
+4. Managers will need to consider how they “counteract”
+information (e.g., imagery from tourism social media) that
+celebrates the existence of some “charismatic” or attractive
+invasive plants where those plants are entrenched within
+tourist itineraries.
+Invasive Plant Science and Management
+241
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+just as it would be a generalization to say that all Westerners
+subscribe to the human–nature dichotomy described earlier. From
+the perspective of this research, these are merely labels to be used as
+convenient starting points to explore whether and how attitudes
+to IAS may vary. Meanwhile, complicating attempts to draw
+conclusions regarding the relationship between race/ethnicity and
+attitudes toward nature (and IAS) are previous findings suggesting
+that other demographic factors may also play a role; for example,
+gender and age have also been found to influence individuals’
+perceptions of nature and naturalness (Norgaard 2007; Sang
+et al. 2016).
+Studies of Tourists and Invasive Species
+There are limited studies of tourists’ perceptions of and attitudes
+toward nature and environmental management that have a focus
+on invasive species. Barros et al.’s (2022) edited collection on
+tourism, recreation, and biological invasions is a welcome addition
+and includes a useful summary of work in this area (Shackleton
+et al. 2022). Those studies that do address invasive species (e.g.,
+Ansong and Pickering 2015; Bravo-Vargas et al. 2019; Zhang et al.
+2021) reveal variation in the way that visitors assess the threat from
+such species. For example, Sharp et al. (2011) found that visitors
+with higher levels of formal education and a biocentric value
+orientation indicated more support for certain invasive species
+control measures.
+Nanayakkara et al. (2018) found that visitors’ understandings of
+aquatic invasive species in Canada was organism dependent, but also
+connected with several demographic (age, sex, and education)
+variables, including place of residence (rural vs. urban); however,
+they found that race had no measurable effect. In their qualitative
+study of international visitors in eco-sanctuaries in New Zealand,
+Zhang et al. (2021) did, however, find examples of nationality (and
+familiarity with the species) influencing visitors’ attitudes toward
+particular IAS. Likewise, other research on tourists in New Zealand
+has demonstrated variation between domestic and international
+tourists in their level of ecological knowledge, attitudes toward
+nature, and attitudes toward invasive species and their control
+(Lovelock 2007). However, in that study, international visitors were
+examined as one social group, and ethnic or cultural differences were
+not considered. While not addressing IAS specifically, Packer et al.
+(2014) found differences in attitudes toward nature among visitors
+based upon nationality and ethnicity.
+A simple explanation for such variation in tourists’ attitudes
+regarding IAS may be that they just have a lower level of awareness of
+IAS and the problems they cause within the destination regions that
+they are visiting. This may account for any domestic/international
+variation in attitudes. However, some researchers (e.g., Vining et al.
+2008) claim that due to industrialization, urbanization, and
+disconnection from the natural environment, even the domestic
+general public may not recognize the threat from IAS. For
+international tourists, however, this is likely to be exacerbated by
+their visits taking place within unfamiliar ecosystems.
+Collectively, the literature cited suggests that visitors’ percep-
+tions of and attitudes toward IAS may be linked with a range of
+demographic factors, including place of residence and race/
+ethnicity. Therefore, there is a need to investigate visitors’
+understandings of IAS and how this may vary across the range
+of visitors that the destination typically receives. This information
+may help in the development
+of appropriate
+IAS-related
+communication strategies for different visitor groups (Zhang
+et al. 2021). This is particularly important for destinations such as
+New Zealand, where IAS pose a significant ecological and
+economic problem and where there is a large and diverse inbound
+market of nature-based tourists. Previous studies have addressed
+public opinion on invasive species and their control in New
+Zealand (W Fraser 2001; A Fraser 2006; Russell 2014), but limited
+research has been undertaken on tourists and the tourism industry
+in relation to IAS (Gawith et al. 2020; Lovelock 2007; Lovelock
+et al. 2022).
+Consequently, this research aims to address gaps in our
+knowledge regarding cultural variation in perceptions of IAS, with
+a focus on tourists and their attitudes toward invasive plant
+management—specifically addressing the influence of visitor
+status (domestic/international) and sociodemographic factors
+such as nationality and ethnicity. This study extends the social
+dimensions of invasive species research into the tourism sphere
+and provides insights for agencies tasked with IAS management,
+where tourists and the tourism industry are critical stakeholders.
+Materials and Methods
+The aim of this research was to describe and compare visitors’
+perceptions (awareness, attitudes, values) of the natural environ-
+ment and a range of introduced plant species based upon different
+sociodemographics defined by place of origin, ethnicity, age and
+gender.
+Thus,
+descriptive
+and
+comparative
+methods
+were
+considered most appropriate for this study, as they are commonly
+used in the social sciences to compare similarities and differences
+among groups (Williams 2007).
+A questionnaire was developed for the purpose of the study,
+with some items broadly developed from Lovelock (2007), but the
+questionnaire was expanded and adapted to focus on flora rather
+than fauna and to include species that could commonly be
+expected to be encountered by visitors in their travels through
+New Zealand (see supplementary material). The questionnaire also
+drew broadly on other social dimensions studies on invasive plants
+(e.g., Bravo-Vargas et al. 2019; Lindemann-Matthies 2016). The
+first section aimed to examine participants’ preferences for a range
+of commonly encountered flora in their New Zealand itineraries.
+The rationale for this being that we need to know about visitors’
+perceptions of and attitudes to commonly encountered invasive
+plants in order to develop appropriate environmental messaging
+for visitors around invasive plant management (ultimately with the
+aim of building a constituency of support from visitors for invasive
+plant management). For this section, we adopted a photo-
+elicitation approach (Harper 2002), noting that this has been
+used successfully in other studies of invasive species (e.g., Lovelock
+2007; Zhang et al. 2021). Ten images of plants commonly found in
+New Zealand were presented to participants. Among these plants,
+beech forest (Nothofagus spp.) was the only native species, the
+remainder—mixed pasture grass, Scottish thistle [Cirsium vulgare
+(Savi) Ten.], pine forest (Pinus spp.), mixed exotic coniferous
+forest (Pinus spp., Pseudotsuga menziesii (Mirbel) Franco) gorse
+(Ulex
+europaeus
+L.),
+willows
+(Salix
+spp.),
+Russell
+lupin
+(Lupinus polyphyllus Lindl.), wild exotic conifers (Pinus spp.,
+Larix decidua Mill.)—all introduced, with the latter four species
+also being invasive. Participants were asked to rate each plant using
+a 5-point scale (1 = do not like at all, 5 = like very much). One of
+the 10 photos (Figure 1G) contained wild conifers, but these were
+set within a native grassland landscape, and participants appeared
+to experience some confusion, many asking the surveyors which
+species their responses should be based on. Thus, the responses to
+this image were excluded from the analysis.
+242
+Lovelock et al.: Tourists and invasive plants
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+Figure 1. Images of species included in the survey: (A) pasture grass; (B) pine forest; (C) Lupinus polyphyllus; (D) Ulex europaeus; (E) beech forest; (F) wilding conifers; (G) wilding
+conifers; (H) exotic forest; (I) Salix spp.; (J) Cirsium vulgare.
+Invasive Plant Science and Management
+243
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+The second section aimed to examine participants’ perceptions
+(values, beliefs, and attitudes) of “naturalness” (natural environ-
+ment) in relation to the presence of introduced species. A set of 12
+statements covered the following aspects: participants’ knowledge of
+New Zealand’s IAS (4 items); participants’ beliefs about the natural
+environment (4 items); and their attitudes toward invasive species
+and their control (4 items). For all 12 statements, participants were
+asked to rate the extent of their agreement on a 5-point Likert-type
+scale (strongly agree to strongly disagree). The final section
+contained sociodemographic questions addressing visitor status
+(domestic/international), nationality, ethnicity, gender, age, and
+whether they were a member of any environmental group.
+The questionnaire was conducted in both English and in
+Mandarin, because Chinese visitors are the second largest tourist
+group in New Zealand (MBIE 2018). The questionnaire was
+originally designed in English and then was translated into
+Mandarin. Independent back-translation was undertaken to check
+consistency, and a pilot study was conducted with 12 Chinese
+individuals to ensure it was perceived by Chinese respondents
+correctly. Interviews were conducted with participants individually
+to determine whether they had any difficulties understanding the
+survey content. No key issues or problems were indicated by
+respondents during the pilot study. As this study required
+collection of primary data from human participants, ethical
+approval was gained before the distribution of the pilot and main
+surveys (University of Otago, approval D18/029). The aim of the
+research project was disclosed to participants before they started
+the survey through an information sheet provided on-site.
+Participants were assured anonymity in the final report and could
+choose at any time to withdraw from the survey.
+Study Location
+This study took place within two tourism regions in Te
+Waipounamu the South Island of New Zealand: Te Manahuna
+Mackenzie Basin and the Queenstown Lakes district (Figure 2).
+Both regions have spectacular natural landscapes and are
+important tourism destinations for both international and
+domestic tourists, being popular for sightseeing, camping, hiking,
+fishing, hunting, cycling, water sports, and snow sports (Gawith
+et al. 2020). Aoraki/Mt Cook (New Zealand’s highest mountain
+and a key attraction in Te Manahuna Mackenzie Basin) was visited
+by more than 1 million visitors in 2018, and Queenstown (New
+Zealand’s premier resort town) received 3.9 million visitors in 2019
+(MBIE 2018; Sage 2019). Both areas have important historical,
+spiritual, and cultural significance to the indigenous Māori of Te
+Rūnanga o Ngai Tāhu, the local iwi (tribal group) (Greenaway
+et al. 2015).
+The landscapes of both regions have been through substantial
+changes for a variety of reasons, including the damming of lakes
+and canal system construction for hydroelectricity, expansion of
+farming, intensive grazing, and planting of exotic conifers
+(Thompson 2011). Much native vegetation has been replaced by
+introduced plant species over the last 100 yr. Wild conifers (mainly
+Pinus, Larix, and Pseudotsuga spp.) have become problematic,
+spreading rapidly, eliminating native plants, and undermining the
+naturalness and uniqueness of landscapes (Dickie et al. 2014;
+Howell 2016). Similarly, L. polyphyllus, a decorative perennial
+garden plant, invades the braided riverbeds that are characteristic
+of the region, reducing the nesting habitat for birds, while
+providing refuge for introduced predators.
+Figure 2. Study area, South Island, New Zealand.
+244
+Lovelock et al.: Tourists and invasive plants
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+The survey was distributed during the summers of 2019 and
+2020 at popular viewpoint sites near Queenstown and Arrowtown
+and at Twizel and Lake Pukaki in Te Manahuna Mackenzie Basin,
+where most of the visitors to these areas would stop for photo-
+taking opportunities. A convenience sampling technique was used
+to recruit the next available visitor at the viewpoint site who was
+willing to take part in the survey (Etikan et al. 2016). Surveys were
+self-completed, mainly via iPad (hard copies were available for
+respondents who preferred this medium). There were two
+researchers on site distributing the survey to visitors. One of the
+researchers was Mandarin speaking. Fruit and candy were available
+as incentives for survey participants.
+SPSS v. 24 was used for data analysis. Normality was assessed by
+examining the skew and kurtosis values for all scale items (Fields
+2013). All items met Kline’s (2010) criteria of skew less than 3 and
+kurtosis less than 10, indicating normally distributed data.
+Descriptive techniques were utilized to compute frequencies and
+means for responses within each response category for all
+questions by sociodemographic group. Independent t-tests (with
+equal variances not assumed) and one-way ANOVA tests (with the
+Bonferroni post hoc test) were utilized to determine the
+significance of differences in the mean scores of participants’
+ecological knowledge and participants’ perceptions of the natural
+environment and introduced species among segregated groups
+defined by sociodemographics.
+Results and Discussion
+Demographic Profile of Participants
+Of the 238 responses, seven were either not fully completed or
+demographic information was incomplete, reducing the effective
+sample size to 231. A series of post hoc analyses were conducted
+using G*Power (Faul et al. 2009) to determine the adequacy of the
+achieved sample size for the statistical tests of the study. Table 1
+summarizes the tests conducted, settings used according to
+accepted conventions, and level of power achieved. The tests
+showed that the sample size of 231 produced suitable power levels
+for the statistical tests in this study.
+The majority of the visitors (about three-quarters of the sample)
+were international, with New Zealand domestic visitors compris-
+ing the remaining one-quarter of the sample (Table 2).
+There were slightly more female respondents than male
+respondents. The number of “other” gender group respondents
+(n = 3, 1.3%) was limited in the sample, precluding this as a
+category for comparative statistical analysis. Visitors in the 18- to
+29-yr-old range formed the largest age group, comprising more
+than one-third of the sample, followed by the 30- to 39-yr-old
+group. Of the international visitors, the majority came from
+Europe, followed by China, then other Asia, Australia, and North
+America. Visitors were mainly of two ethnicities, with European
+comprising just under half of the sample, followed by Asian at
+42.4%. There were limited numbers of Māori and Pasifika
+participants in this study (about 2%), precluding comparative
+statistical analysis of these groups, thus it was decided to combine
+them with the “other” ethnicity group.
+Visitors’ Plant Preferences
+Participants were asked to rank the degree to which they liked each
+plant in the group of plants described earlier, using a 5-point
+scale (1 = don’t like at all, 5 = like very much). Results show
+significantly different preference patterns between domestic
+visitors (New Zealanders) and international visitors (Table 3).
+New Zealand native beech forest (the only native plant in the
+selection) was rated highest by New Zealand domestic participants,
+while international participants rated L. polyphyllus as their
+favorite. International participants reported a higher mean score
+Table 1. Power analysis
+Test
+Settings
+Power
+Post hoc analysis for t-test
+(2 groups)
+α = 0.95, medium effect
+size = 0.5, total sample = 231
+0.95
+Post hoc analysis for
+ANOVA (3 groups)
+α = 0.95, medium effect
+size = 0.25, total sample = 231
+0.93
+Post hoc analysis for
+ANOVA (6 groups)
+α = 0.95, medium effect
+size = 0.25, total sample = 231
+0.84
+Table 2. Survey demographic overview.
+n
+Percentage %
+Visitor status
+NZ visitors (domestic)
+56
+24.2
+International visitors
+175
+75.8
+Nationality (International Visitors)a
+Australia
+24
+12.8
+Europe
+56
+29.9
+North America
+23
+12.3
+China
+45
+24.1
+Other Asia
+26
+13.9
+Other
+13
+7.0
+Ethnicityb
+European
+111
+48.1
+Asian
+98
+42.4
+Other
+22
+9.5
+Age
+18–29
+82
+35.7
+30–39
+62
+27.0
+40–49
+34
+14.8
+50–59
+28
+12.2
+60þ
+24
+10.4
+Gender
+Male
+104
+45.2
+Female
+123
+53.5
+Other
+3
+1.3
+Environmental group member
+Domestic
+6
+2.6
+International
+19
+8.2
+Total
+231
+100.0
+Age and gender data were missing for one respondent.
+a12 Twelve respondents recorded dual citizenship between New Zealand and another
+country.
+bEuropean ethnicity is the equivalent of Caucasian or White ethnicity.
+Table 3. Visitors’ plant preference by domestic/international status (scale:
+1 = don’t like at all, 5 = like very much).
+Plant
+Domestic
+(M ± SD)
+International
+(M ± SD)
+All
+(M ± SD)
+Beech forest
+4.4 ± 0.9
+4.2 ± 0.8
+4.2 ± 0.9
+Lupinus polyphyllus*
+4.3 ± 1.2
+4.5 ± 0.8
+4.5 ± 0.9
+Salix spp.
+4.1 ± 1.0
+4.2 ± 0.8
+4.2 ± 0.9
+Pasture grass
+3.5 ± 1.3
+3.5 ± 1.1
+3.5 ± 1.1
+Wild conifer
+2.6 ± 1.2
+2.7 ± 1.1
+2.7 ± 1.1
+Pine forest**
+3.4 ± 1.4
+3.9 ± 1.0
+3.8 ± 1.2
+Exotic forest**
+3.3 ± 1.1
+3.7 ± 1.1
+3.6 ± 1.1
+Cirsium vulgare**
+2.5 ± 1.5
+3.1 ± 1.2
+2.9 ± 1.3
+Ulex europaeus**
+3.1 ± 1.5
+4.1 ± 1.0
+3.8 ± 1.2
+*P < 0.05.
+**P < 0.01.
+Invasive Plant Science and Management
+245
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+for five exotic species: L. polyphyllus, pine forest, exotic forest,
+C. vulgare, and U. europaeus.
+When the data were analyzed by nationality (Table 4),
+significantly higher preferences were shown by visitors from
+China and other Asia for five introduced species, including
+invasive wild conifers.
+Participants of different ethnicities also showed significantly
+different preference patterns (Table 5). While the only native plant
+in the sample (beech forest) received the highest ranking by
+European ethnicity participants, those of Asian ethnicity ranked
+the invasive L. polyphyllus their favorite. Asian visitors had
+significantly higher preferences than participants of European
+ethnicity for seven of the eight listed introduced species:
+L. polyphyllus, pasture grass, wild conifer, pine forest, exotic
+forest, C. vulgare, and U. europaeus.
+Male participants and female participants showed some
+significant differences: female participants rated L. polyphyllus
+the highest out of all plant species, rating this invasive species
+significantly higher than did male participants. Three species were
+rated significantly differently by participants based on their ages,
+with older participants showing lower preferences for two invasive
+species (U. europaeus and C. vulgare). There were no significant
+differences for plant preferences between environmental group
+members and nonmembers.
+Visitors’ Knowledge of Invasive Species in New Zealand
+Participants’ knowledge of the extent of the IAS problem in
+New Zealand landscapes was examined through four statements.
+For each statement, participants were asked to rate their extent of
+agreement using a 5-point Likert-type scale (1 = strongly agree,
+5 = strongly disagree). Differences among social groups defined
+by demographics were examined utilizing comparative analyses
+(t-test, one-way ANOVA test). Generally, participants tended to
+rate New Zealand’s habitats as being highly natural and pure;
+international visitors significantly more so than domestic visitors.
+Participants showed some level of awareness of ecological
+problems facing New Zealand in terms of IAS. Domestic visitors
+showed better knowledge of New Zealand’s natural environment
+and a higher level of awareness of ecological problems facing
+New Zealand than international visitors (Table 6).
+For international visitors, knowledge of New Zealand’s
+natural environment varied according to nationality (Table 7).
+Participants from China and other Asia (significantly more so than
+other international groups) tended to rate New Zealand’s land-
+scape as being highly natural and pristine and New Zealand’s
+landscapes as being more natural than those found overseas.
+In the analysis by ethnicity, Asian participants tended to rate
+New Zealand’s landscapes as highly natural and pristine and
+having greater biodiversity than overseas landscapes (Table 8).
+Asian participants also showed lower awareness of the ecological
+problems facing New Zealand than European participants. There
+were no significant differences among age groups or by gender or
+environmental group membership.
+Table 4. Visitors’ plant preference by nationality (scale: 1 = don’t like at all, 5 = like very much).
+Plant
+Australia
+(M ± SD)
+Europe
+(M ± SD)
+North America
+(M ± SD)
+China
+(M ± SD)
+Other Asia
+(M ± SD)
+Other
+(M ± SD)
+Beech forest
+4.2 ± 0.8
+4.1 ± 0.9
+4.4 ± 0.7
+4.2 ± 0.8
+3.8 ± 0.9
+4.3 ± 1.0
+Salix spp.
+4.0 ± 1.2
+4.1 ± 0.8
+4.2 ± 0.8
+4.3 ± 0.8
+4.4 ± 0.9
+4.2 ± 0.7
+Lupinus polyphyllus
+4.3 ± 1.2
+4.4 ± 0.8
+4.5 ± 0.7
+4.7 ± 0.8
+4.9 ± 0.4
+4.5 ± 1.0
+Pasture grass**
+3.4 ± 0.9
+3.1 ± 1.0
+3.5 ± 1.1
+4.0 ± 1.2
+3.7 ± 1.0
+3.5 ± 0.9
+Ulex europaeus
+4.0 ± 1.1
+3.9 ± 1.0
+4.0 ± 1.1
+4.1 ± 1.1
+4.2 ± 0.8
+4.1 ± 1.5
+Wild conifer*
+2.5 ± 1.2
+2.4 ± 1.0
+2.8 ± 1.0
+3.1 ± 1.1
+2.9 ± 1.1
+2.8 ± 0.9
+Pine forest**
+3.3 ± 1.3
+3.5 ± 1.1
+4.2 ± 1.1
+4.3 ± 0.7
+4.2 ± 0.8
+3.8 ± 1.1
+Cirsium vulgare*
+2.6 ± 1.5
+2.8 ± 1.0
+3.1 ± 1.3
+3.5 ± 1.3
+3.3 ± 1.0
+2.8 ± 1.2
+Exotic forest**
+3.3 ± 1.2
+3.4 ± 1.2
+3.9 ± 1.1
+4.1 ± 0.8
+4.1 ± 0.8
+3.6 ± 1.0
+*P < 0.05.
+**P < 0.01.
+Table 5. Visitors’ plant preference by ethnicity (scale: 1 = don’t like at all, 5 = like
+very much).
+Plant
+European
+(M ± SD)
+Asian
+(M ± SD)
+Other
+(M ± SD)
+Beech forest
+4.2 ± 0.9
+4.2 ± 0.8
+4.6 ± 0.9
+Salix spp.
+4.1 ± 0.8
+4.2 ± 1.0
+4.4 ± 0.8
+Lupinus polyphyllusa
+4.3 ± 1.0
+4.6 ± 0.8
+4.8 ± 0.4
+Pasture grassa
+3.3 ± 1.1
+3.8 ± 1.2
+3.6 ± 1.1
+Ulex europaeusa
+3.3 ± 1.3
+4.1 ± 1.0
+4.2 ± 1.4
+Wild conifera
+2.4 ± 1.0
+3.0 ± 1.1
+2.6 ± 1.0
+Pine foresta
+3.5 ± 1.2
+4.2 ± 0.9
+3.4 ± 1.5
+Cirsium vulgarea
+2.6 ± 1.3
+3.4 ± 1.3
+2.7 ± 1.3
+Exotic foresta
+3.3 ± 1.1
+4.0 ± 0.9
+3.4 ± 1.3
+P < 0.01 (Scale: 1=don’t like at all, 5-like very much).
+Table 6. Visitors’ knowledge of naturalness and invasive plants in New Zealand
+by domestic/international status.
+Statement
+New
+Zealand
+visitor
+M ± SD
+International
+visitor
+M ± SD
+t-test
+New Zealand
+landscapes are
+generally very natural
+or pure
+2.3 ± 1.1
+1.8 ± 1.0
+t (225) = 3.454,
+P = 0.001
+NZ landscapes are
+generally more
+biodiverse than other
+landscapes overseas
+2.4 ± 1.1
+2.3 ± 1.1
+t (222) = 0.608,
+P = 0.544
+There are many
+invasive plant species
+in NZ’s landscapes
+2.7 ± 1.0
+2.3 ± 1.0
+t (223) = −4.434,
+P = 0.000
+NZ native grassland
+and alpine
+ecosystems are
+greatly impacted by
+invasive plant species
+2.7 ± 1.1
+2.7 ± 1.3
+t (223) = −1.317,
+P = 0.01
+Scale: 1=Strong agree, 5=Strongly disagree.
+246
+Lovelock et al.: Tourists and invasive plants
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+Visitors’ Views on Invasive Species and Their Management
+Participants were given eight statements related to IAS and
+ecosystem management in general. Significant differences were
+found between domestic and international visitors for three items
+(Table 9). New Zealand visitors were less likely to accept long-
+standing invasive plants as native species and more likely to support
+their eradication and the active management of ecosystems.
+Participants from China and other Asians showed higher
+acceptance of introduced species and less support for eradication
+(Table 10). They more strongly supported the statements “There is
+no bad plant or animal species” and “If an introduced plant or
+animal is in a place long enough, we can eventually consider it to be
+natural.” Compared with participants from Australia, Europe, and
+North America, they were also more likely to acknowledge the
+difficulty and cost of invasive species management.
+Significantly different responses were also received from
+respondents of Asian ethnicity compared with other ethnicity
+groups for six items (Table 11). In a similar manner to responses by
+nationality, Asian participants demonstrated higher tolerance and
+acceptance of introduced species than European participants.
+While there were no significant differences by gender, there
+were differences among age groups for a number of items. Those
+from the 30- to 39-yr-old and 40- to 49-yr-old groups showed less
+support for eradication of invasive species than other age groups.
+Participants in the 30- to 39-yr-old group seemed to more strongly
+support the view that “There is no such thing as a ‘bad’ plant or
+animal species” than those from other age groups. This group also
+seemed to have greater concerns about the difficulty of IAS control
+than the older age groups. Older participants (50- to 59-yr-old)
+showed less support for the statement “If an introduced plant or
+animal is in a place long enough, we can eventually consider it to be
+natural.” Non–environmental group members showed a higher
+tolerance of the spread of pests and weeds into the natural
+environment than did members, while also showing stronger
+agreement with the statement “There is no such thing as a bad
+plant or animal species.”
+Table 8. Visitors’ knowledge of naturalness and invasive plants in New Zealand by ethnicity.
+Statement
+European
+(M ± SD)
+Asian
+(M ± SD)
+Other
+(M ± SD)
+One-way ANOVA
+New Zealand landscapes are generally very natural or pure
+2.2 ± 1.1
+1.5 ± 0.1
+2.4 ± 1.2
+F(2, 227) = 17.426, P = 0.000
+NZ landscapes are generally more biodiverse than other landscapes overseas
+2.6 ± 1.2
+2.0 ± 1.0
+2.6 ± 1.2
+F(2, 224) = 7.527, P = 0.001
+There are many invasive plant species in NZ’s landscapes
+2.4 ± 1.0
+2.8 ± 1.1
+2.5 ± 1.3
+F(2, 225) = 5.176, P = 0.006
+NZ native grassland and alpine ecosystems are greatly impacted by invasive
+plant species
+2.3 ± 0.9
+2.8 ± 1.1
+2.8 ± 1.2
+F(2, 225) = 6.511, P = 0.002
+Scale: 1=Strong agree, 5=Strongly disagree.
+Table 7. Visitors’ knowledge of naturalness and invasive plants in New Zealand by nationality.
+Statement
+Australia
+(M ± SD)
+Europe
+(M ± SD)
+North
+America
+(M ± SD)
+China
+(M ± SD)
+Other Asia
+(M ± SD)
+Other
+(M ± SD)
+One-way ANOVA
+New Zealand landscapes are
+generally very natural or pure
+2.1 ± 2.1
+2.0 ± 1.0
+2.2 ± 0.3
+1.4 ± 0.8
+1.4 ± 0.6
+2.2 ± 0.8
+F(5, 180) = 4.64, P = 0.001
+NZ landscapes are generally more
+biodiverse than other landscapes
+overseas
+2.8 ± 1.2
+2.8 ± 1.2
+2.6 ± 1.1
+2.12 ± 1.0
+1.8 ± 0.8
+2.5 ± 0.9
+F(5, 180) = 3.062, P = 0.011
+There are many invasive plant
+species in NZ’s landscapes
+2.4 ± 1.0
+2.7 ± 0.9
+2.5 ± 1.2
+3.2 ± 1.1
+2.7 ± 0.9
+1.9 ± 0.7
+F(5, 178) = 4.320, P = 0.001
+NZ native grassland and alpine
+ecosystems are greatly impacted by
+invasive plant species
+2.3 ± 1.1
+2.6 ± 0.9
+2.4 ± 1.2
+3.0 ± 1.1
+2.9 ± 1.2
+2.1 ± 0.9
+F(5, 179) = 3.470, P = 0.005
+Scale: 1=Strong agree, 5=Strongly disagree.
+Table 9. Views on managing ecosystems and invasive species by domestic/international status.
+Statement
+NZ visitor
+(M ± SD)
+International Visitor
+(M ± SD)
+t-test
+Natural environments sometimes need active management intervention
+1.8 ± 1.0
+2.0 ± 1.0
+t (222) = 1.631, P = 0.104
+Invasive plant species in NZ’s landscapes should be eradicated
+2.3 ± 1.0
+2.9 ± 1.2
+t (222) = −3.295, P = 0.001
+Non-native plant species should be eradicated in NZ’s natural landscapes
+2.7 ± 1.3
+3.0 ± 1.3
+t (223) = −1.317, P = 0.189
+It is important that humans continue their role of managing landscapes
+1.8 ± 0.9
+1.9 ± 1.0
+t (224) = 3.008, P = 0.003
+There is no such thing as a “bad” plant or animal species
+3.7 ± 1.3
+3.4 ± 1.4
+t (222) = 0.139, P = 0.142
+It is simply too difficult and expensive to control the spread of invasive plant species
+3.6 ± 1.2
+3.2 ± 1.4
+t (224) = 1.575, P = 0.117
+If an introduced plant or animal is in a place long enough we can eventually
+consider it to be natural
+3.6 ± 1.2
+3.1 ± 1.2
+t (224) = 3.008, P = 0.003;
+The spread of pests and weeds into natural areas should be accepted
+4.2 ± 1.2
+3.8 ± 1.3
+t (222) = 1.631, P = 0.104
+Scale: 1=Strong agree, 5=Strongly disagree.
+Invasive Plant Science and Management
+247
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+Visitors’ “IAS Orientation”
+A mean score was calculated from the latter four of the eight items
+specifically referring to the place of invasive species in the
+environment to create an “IAS orientation” scale. Cronbach’s
+alpha (α = 0.808) indicated that the internal consistency of the
+scale is acceptable. The scale gives an overall indication of each
+participant’s position regarding IAS; the lowest possible score of
+1 on this scale indicates an acceptance of IAS, and the highest
+possible score of 5 indicates a desire to eradicate IAS (Table 12).
+Overall, participants were moderately unaccepting of IAS, but
+there were significant differences between groups. New Zealand
+tourists were significantly less accepting of IAS than were
+international tourists. Similarly, there was a significant difference
+in means among international groups; participants from China
+and other Asians scored significantly lower than visitors of other
+nationalities, indicating higher acceptance of IAS than other
+international groups. There was also a significant difference in
+means among the three ethnicity groups. Asian participants
+Table 10. Visitors’ views on managing ecosystems and invasive species by nationality.
+Statement
+Australia
+(M ± SD)
+Europe
+(M ± SD)
+North
+America
+(M ± SD)
+China
+(M ± SD)
+Other Asia
+(M ± SD)
+Other
+(M ± SD)
+One-way ANOVA
+Natural environments sometimes
+need active management intervention
+1.6 ± 0.9
+2.1 ± 1.1
+1.9 ± 0.9
+1.9 ± 1.0
+2.1 ± 1.0
+1.5 ± 0.7
+F(5, 180) = 1.697, P = 0.138
+Invasive plant species in NZ’s
+landscapes should be eradicated
+2.1 ± 0.9
+2.7 ± 1.1
+2.7 ± 1.3
+3.6 ± 1.1
+2.8 ± 1.2
+2.6 ± 0.9
+F(5, 177) = 6.453, P = 0.000
+Non-native plant species should be
+eradicated in NZ’s natural landscapes
+2.4 ± 1.2
+3.0 ± 1.2
+2.4 ± 1.5
+3.5 ± 1.3
+3.0 ± 1.4
+2.5 ± 1.0
+F(5, 178) = 4.20, P = 0.001
+It is important that humans continue
+their role of managing landscapes
+1.5 ± 0.7
+2.3 ± 1.0
+1.7 ± 0.8
+1.8 ± 1.1
+1.8 ± 0.9
+1.9 ± 1.2
+F(5, 180) = 2.632, P = 0.025
+There is no such thing as a ‘bad’
+plant or animal species
+4.0 ± 1.2
+3.9 ± 1.2
+4.2 ± 1.2
+2.5 ± 1.2
+2.6 ± 1.5
+3.2 ± 1.8
+F(5, 178) = 10.583, P = 0.000
+It is simply too difficult and expensive
+to control the spread of invasive
+plant species
+3.6 ± 1.5
+4.0 ± 1.1
+4.0 ± 1.2
+2.01 ± 0.9
+2.8 ± 1.3
+2.89 ± 1.2
+F(5, 179) = 16.733, P = 0.000
+If an introduced plant or animal is in
+a place long enough we can
+eventually consider it to be natural
+3.8 ± 1.4
+3.3 ± 1.1
+3.8 ± 1.1
+2.5 ± 1.1
+2.3 ± 0.9
+3.1 ± 1.3
+F(5, 180) = 9.024, P = 0.000
+The spread of pests and weeds into
+natural areas should be accepted
+4.1 ± 1.3
+4.2 ± 1.1
+4.1 ± 1.2
+3.5 ± 1.3
+3.2 ± 1.2
+4.1 ± 1.4
+F(5, 177) = 3.801, P = 0.003
+Scale: 1=Strong agree, 5=Strongly disagree.
+Table 12. Visitors’ “IAS orientation” by demographic grouping (scale: 1 = accept IAS, 5 = eradicate IAS).
+Visitor origina
+New Zealand
+3.8
+International
+3.4
+All
+3.5
+Nationalitya
+Australia
+3.9
+Europe
+3.8
+North America
+4.0
+China
+2.6
+Other Asia
+2.7
+Other
+3.23
+Ethnicitya
+European
+4.0
+Asian
+2.8
+Other
+3.9
+Agea
+18–29
+3.5
+30–39
+3.2
+40–49
+3.4
+50–59
+4.0
+60þ
+3.8
+Gender
+Male
+3.6
+Female
+3.4
+Environmental groupa
+Member
+4.2
+Nonmember
+3.4
+aP < 0.05 (Scale: 1 = ’Accept IAS’, 5 = ’Eradicate IAS’).
+Table 11. Views on managing ecosystems and invasive species by ethnicity.
+Statement
+European
+M ± SD
+Asian
+M ± SD
+Other
+M ± SD
+One-way ANOVA
+Natural environments sometimes need active management intervention
+1.9 ± 1.0
+1.9 ± 1.0
+1.8 ± 1.0
+F(2, 227) = 0.079, P = 0.924
+Invasive plant species in NZ’s landscapes should be eradicated
+2.4 ± 1.1
+3.1 ± 1.2
+2.6 ± 1.1
+F(2, 224) = 7.950, P = 0.000
+Non-native plant species should be eradicated in NZ’s natural landscapes
+2.7 ± 1.3
+3.2 ± 1.3
+2.6 ± 1.4
+F(2, 225) = 5.319, P = 0.006
+It is important that humans continue their role of managing landscapes
+1.9 ± 1.0
+1.8 ± 1.0
+1.8 ± 1.1
+F(2, 226) = 0.171, P = 0.843
+There is no such thing as a ‘bad’ plant or animal species
+4.1 ± 1.2
+2.7 ± 1.3
+4.0 ± 1.3
+F(2, 223) = 36.628, P = 0.000
+It is simply too difficult and expensive to control the spread of invasive plant species
+4.0 ± 1.1
+2.5 ± 1.2
+3.8 ± 1.3
+F(2, 226) = 43.876, P = 0.000
+If an introduced plant or animal is in a place long enough we can eventually consider
+it to be natural
+3.7 ± 1.1
+2.6 ± 1.1
+3.7 ± 1.3
+F(2, 226) = 30.547, P = 0.000
+The spread of pests and weeds into natural areas should be accepted
+4.3 ± 1.2
+3.4 ± 1.3
+4.2 ± 1.3
+F(2, 224) = 16.943, P = 0.001
+Scale: 1=Strong agree, 5=Strongly disagree.
+248
+Lovelock et al.: Tourists and invasive plants
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+showed a higher level of acceptance of IAS than those from
+European and other ethnicities.
+Older visitors (above 50 yr old) had lower tolerance and
+acceptance of IAS than younger age groups (under 50 yr old).
+There was no difference between males and females in mean scores
+for IAS orientation. However, participants who were environ-
+mental group members scored differently from nonmembers,
+being less accepting of IAS.
+The study revealed that many tourists, especially international
+tourists, had low awareness of the ecological problems associated
+with IAS and that their expressed preferences for commonly
+encountered New Zealand flora included a number of serious
+environmental weeds. These preferences, however, varied signifi-
+cantly among participants by visitor origin and ethnicity. Many
+international participants were unclear about the extent of the
+invasive plant problem in New Zealand. This may be associated
+with New Zealand’s hybridized landscapes that support a wide
+range of invasive alien species. Adding to this confusion, some of
+these invasive plants, (e.g., L. polyphyllus), were historically spread
+for the purpose of landscape “improvements” and for tourism.
+Thus, international visitors encountering such plants in touristic
+locations that otherwise have a high degree of natural integrity may
+believe they are native plants. In fact L. polyphyllus received
+very high preferences from both domestic and international
+participants—most likely because of their attractive flowers. This
+supports the view that certain traits of species (i.e., aesthetic value
+of flowering plants) may influence visitors’ perceptions and
+attitudes toward particular invasive species and their management
+(Knight 2008; Shackleton et al. 2019b). Further to this, the
+legitimacy of L. polyphyllus in the landscape is perpetuated by its
+ubiquitous (and largely unchallenged) presence in formal and
+informal touristic imagery (Hayes et al. 2023). This poses a
+challenge for managers wishing to eradicate an attractive species
+that now features in the itineraries of many tourists.
+Importantly, international participants showed significantly
+lower support for eradication of IAS than did domestic participants.
+This may be attributed to a lower awareness of the ecological
+problems associated with IAS. However, when considering different
+visitor groups—defined by nationality and ethnicity—differences in
+participants’ ecological knowledge and awareness of ecological
+problems were apparent. Participants from China and from
+other Asian countries not only showed a poorer knowledge of
+New Zealand’s flora and a lower awareness of the impacts caused by
+invasive plant species compared with participants from other
+international groups, but also demonstrated higher preferences for
+some invasiveplants. Most importantly, however, the IAS orientation
+results for Asian participants indicated higher levels of acceptance of
+IAS in general than did the results for European participants.
+These variations along ethnic lines support previous studies
+undertaken with residents in which individuals from different
+ethnicities have expressed distinct preferences for the natural
+environment and landscapes (e.g., Buijs et al. 2009; Herzog et al.
+2000; Kaplan and Herbert 1987; Lovelock et al. 2011; Virden and
+Walker 1999). Similarly, Zhang et al. (2021) found variation
+between Asian and Western visitors to eco-sanctuaries regarding
+perceptions and attitudes toward some endemic and introduced
+species. In our study, the differences between Asian and European
+ethnicities and in particular the Asian visitors’ significantly
+different IAS orientation scores, pose some questions about
+ethnicity and human–nature relations. If we accept that the Asian
+cosmology of human–nature relations is different from, and more
+environmentally aligned than, the Western cosmology (Harper
+and Snowden 2017), this may in part explain these findings.
+However, the Asian human–nature cosmology could manifest
+in different ways in terms of Asian orientation toward IAS.
+This critically depends upon how “nature” is defined. If nature in
+the Asian cosmology is taken to mean exclusively “natural nature”
+(i.e., indigenous vs. introduced), then we could expect in our survey
+results a closer alignment between Asian and European visitors’
+preferences, attitudes, and their IAS orientations. But this was not
+the case, thus suggesting that “nature” in the Asian cosmology is
+more all-encompassing, not distinguishing between indigenous
+and introduced—a sort of “place for everything,” rather than
+“everything in its place” approach. This finding is supported by
+Lovelock et al. (2011), who reported that Asian New Zealanders’
+experiences of nature-based recreation were less reliant on
+perceptions of naturalness, and human presence in nature was
+acceptable and even desirable. Similarly, Packer et al. (2014) found
+that Chinese visitors had a more anthropocentric view of nature
+than did Australian visitors. Han (2006) contends that the
+relationship Chinese have to animals and plants is one that hinges
+on understanding what enjoyment the animal or plant might
+provide. Under this assumption, the Chinese are not interested in
+the plant or animal for its intrinsic value. Rather, if the plant can
+bring pleasure through its presence in the landscape (e.g., a hillside
+of attractive yet invasive wilding conifers, or a riverbed abundant
+with the beautiful flowering yet invasive L. polyphyllus) then its
+invasive status is irrelevant.
+Challenging these assumptions is not only the homogenization
+of “Asian” or “Western” but also the view that the East–West
+distinctions in human–nature relations may be a fiction in
+contemporary globalized society (e.g., see Bruun and Kalland
+2014). Furthermore, the rapid industrialization and urbanization
+experienced in many Asian countries in recent decades has meant
+that over time people have started to lose their connections with,
+and knowledge about, the natural environment and the processes
+that support ecosystems—mirroring such trends in Western
+societies (Vining et al. 2008).
+Further confounding any ethnicity- or nationality-based
+differences in perceptions of IAS are other sociodemographic
+factors; in this study, participants in the older age group (above 50 yr)
+demonstrated better knowledge of plant origins and a higher
+awareness of ecological impacts of invasive plant species. This
+aligns with previous studies concerning intentions to support
+invasive species management (e.g., Bremner and Park 2007), which
+have found that sociodemographic factors, including age and
+gender affected support—with those from older age groups being
+willing to pay more for invasive species management (Garcia-
+Llorente et al. 2011). However, this study aligns (partly) with
+previous research that has found no relationship between gender
+and knowledge/attitudes toward IAS (Ansong and Pickering 2015;
+Bardsley and Edwards-Jones 2006). Environmental group mem-
+bers did have significantly different orientations than non-
+members, being less accepting of IAS, supporting the view that
+individuals affiliated to different interest groups such as recrea-
+tional clubs and environmental or animal rights organizations may
+have different perceptions and attitudes toward IAS and their
+management (Shackleton et al. 2019b).
+Understanding tourists’ perceptions and attitudes toward
+IAS and their management is crucial for environmental managers
+who wish to generate support from this group to help achieve
+conservation outcomes (Mameno et al. 2020). Tourists constitute a
+substantial body of individuals moving about the world, posing not
+only an immediate biological threat (Melly and Hanrahan 2020),
+Invasive Plant Science and Management
+249
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+but through their landscape and biota preferences also constituting
+a substantial economic and ecological force that has implications
+for IAS management in destinations.
+The findings from this study provide empirical support for the
+view that tourists often struggle to see IAS as a threat within a
+destination (Greenaway et al. 2015). Ironically, although visitors
+often travel to seek experiences associated with a high level of
+naturalness or wildness, the landscapes that they encounter
+(Karlsd´
+ottir 2013; Urry 2002) may have large populations of
+invasive species. They may remain unaware of environmental
+problems such as IAS that significantly undermine the integrity of
+the natural environment and biodiversity (Perrings et al. 2002). This
+is important, as Rossi et al. (2022) revealed a link between visitors’
+IAS knowledge and their willingness to support IAS management.
+However, this study suggests that engaging tourists as supporters for
+IAS management or eradication may be problematic when they have
+“contrasting conservation narratives” (Zhang et al. 2021: 9) that do
+not align with official IAS management initiatives.
+Complicating any efforts to engage or educate tourists in IAS
+management efforts is the heterogeneity of inbound visitor
+markets. Our findings support the notion that human/nonhuman
+relationships are not politically neutral and that all visitors to a
+destination do not see spaces and places through the same lens;
+there is no singular nature, only a diversity of natures
+(McNaughten and Urry 1998). Our finding that attitudes toward
+naturalness and IAS varied across different nationalities and
+ethnicities suggests that visitors cannot be treated as one
+homogenous cohort. In particular, the emergence of large tourist
+markets from generating regions where there may be divergent
+views of nature and of IAS poses challenges for conservation
+managers wishing to engage with and draw upon the support of
+these visitors (e.g., visitors from China, which before COVID-19
+represented New Zealand’s second-largest international visitor
+market and one of the most valuable in terms of holiday visitor
+spend [Tourism New Zealand 2021]). Thus, understanding the
+knowledge and attitudes of different types of visitors is important in
+designing targeted and market-specific communication strategies
+with a view to obtaining support across these potentially important
+stakeholder groups in IAS management.
+A limitation of this study was that it only captured tourists’ general
+perceptions and attitudes toward IAS; there is a need to further
+explore the underlying reasons for such perceptions and attitudes. It is
+likely that in-depth qualitative approaches can be valuable in this
+regard. While this study points to an East–West divide in terms of IAS
+perceptions and attitudes among visitor groups, to address any
+possibility of falling into a culturally essentialist interpretation of these
+findings (Li et al. 2021), further in-depth qualitative research will be
+valuable in ascertaining why such attitudes prevail.
+There is a need to also consider tourists’ knowledge of IAS in
+their home countries, along with their behavior within the
+destination country (e.g., length of time in the destination and level
+of exposure to environmental messaging regarding IAS) and how
+this may impact upon their IAS perceptions and attitudes. Further
+studies could explore visitors’ responses toward particular IAS
+management approaches, particularly those related to IAS that are
+perceived as tourist attractions within destinations.
+Supplementary material. To view supplementary material for this article,
+please visit https://doi.org/10.1017/inp.2023.30
+Acknowledgments. Funding for this project was provided by the University of
+Otago. No competing interests have been declared.
+References
+Anderson LG, Rocliffe S, Haddaway NR, Dunn AM (2015) The role of tourism
+and recreation in the spread of non-native species: a systematic review and
+meta-analysis. PLoS ONE 10:e0140833
+Ansong M, Pickering C (2015) What’s a weed? Knowledge, attitude and
+behaviour of park visitors about weeds. PLoS ONE 10: e0135026
+Bardsley D, Edwards-Jones G (2006) Stakeholders’ perceptions of the impacts of
+invasive exotic plant species in the Mediterranean region. GeoJournal
+65:199–210
+Barros A, Shackleton R, Rew LJ, Pizarro C, Pauchard A (2022) Tourism,
+Recreation and Biological Invasions. Wallingford, UK: CABI. 255 p
+Beattie J (2011) Biological invasion and narratives of environmental history in
+New Zealand, 1800–2000. Pages 343–352 in Rotherham ID, Lambert RA,
+eds. Invasive and Introduced Plants and Animals. London: Earthscan
+Bravo-Vargas V, García RA, Pizarro JC, Pauchard A (2019) Do people care
+about pine invasions? Visitor perceptions and willingness to pay for pine
+control in a protected area. J Environ Manag 229:57–66
+Bremner A, Park K (2007) Public attitudes to the management of invasive
+non-native species in Scotland. Biol Conserv 139:306–314
+Bruun O, Kalland A (2014) Images of nature: an introduction to the study of
+man-environment relations in Asia. Pages 1–24 in Bruun O, Kalland A, eds.
+Asian Perceptions of Nature: A Critical Approach. Abingdon, UK; New
+York: Routledge
+Buijs AE (2009) Lay people’s images of nature: comprehensive frameworks of
+values, beliefs, and value orientations. Soc Nat Resour 22:417–432
+Buijs AE, Elands BH, Langers F (2009) No wilderness for immigrants: cultural
+differences in images of nature and landscape preferences. Landsc Urban
+Plan 91:113–123
+De Lange PJ, Norton D, Courtney SP, Heenan PB, Barkla JW, Cameron EK,
+Hitchmough R, Townsend AJ (2009) Threatened and uncommon plants of
+New Zealand (2008 revision). NZ J Bot 47:61–96
+Dickie IA, Bennett BM, Burrows LE, Nu˜
+nez MA, Peltzer DA, Porté A,
+Richardson DM, Rejmánek M, Rundel PW, van Wilgen BW (2014)
+Conflicting values: ecosystem services and invasive tree management. Biol
+Invasions 16:705–719
+Etikan I, Musa SA, Alkassim RS (2016) Comparison of convenience sampling
+and purposive sampling. Am J Theor Appl Stat 5:1–4
+Fall JJ (2021) What is an invasive alien species? Discord, dissent and denialism.
+Pages 40–54 in Barker K, Francis RA, eds. Routledge Handbook of
+Biosecurity and Invasive Species London: Routledge
+Faul F, Erdfelder E, Buchner A, Lang AG (2009) Statistical power analyses using
+G*Power 3.1: tests for correlation and regression analyses. Behav Res
+Methods 41:1149–1160
+Fields A (2013) Discovering Statistics Using IBM SPSS Statistics. 4th ed.
+London: Sage. 915 p
+Fraser A (2006) Public Attitudes to Pest Control. A Literature Review.
+Wellington: Department of Conservation. 36 p
+Fraser W (2001) Introduced Wildlife in New Zealand: A Survey of General
+Public Views. Lincoln, NZ: Manaaki Whenua Press. 46 p
+Garcia-Llorente M, Martin-Lopez B, Nunes PALD, Gonzalez JA, Alcorlo P,
+Montes C (2011) Analyzing the social factors that influence willingness to
+pay for Invasive alien species management under two different strategies:
+eradication and prevention. Environ Manag 48:418–435
+Gawith D, Greenaway A, Samarasinghe O, Bayne K, Velarde S, Kravchenko A
+(2020) Socio-ecological mapping generates public understanding of wilding
+conifer incursion. Biol Invasions 22:3031–3049
+Gest J (2021) Majority minority: a comparative historical analysis of political
+responses to demographic transformation. J Ethn Migr Stud 47:3701–3728
+Greenaway A, Bayne K, Kravchenko A, Paul T, Samarasinghe O, Rees T (2015)
+Evaluating (Non-market) Impacts of Wilding Conifers on Cultural Values.
+Auckland: Landcare Research. 83 p
+Hall CM (2015) Tourism and biological exchange and invasions: a missing
+dimension in sustainable tourism? Tour Recreat Res 40:81–94
+Hall CM, Baird T (2013) Ecotourism, biological invasions and biosecurity.
+Pages 66–77 in Ballantyne R, Packer J, eds. International Handbook on
+Ecotourism. Cheltenham and Northampton, UK: Edward Elgar
+250
+Lovelock et al.: Tourists and invasive plants
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+Han F (2006) The Chinese View of Nature: Tourism in China’s Scenic and
+Historic Interest Areas. Ph.D dissertation. Shanghai, China: Tongji
+University. 270 p
+Harmsworth GR, Awatere S (2013) Indigenous Māori knowledge and
+perspectives of ecosystems. Pages 274–286 in Dymond JR, ed. Ecosystem
+Services in New Zealand—Conditions and Trends. Lincoln, NZ: Manaaki
+Whenua Press
+Harper C, Snowden M (2017) Environment and Society: Human Perspectives
+on Environmental Issues. 6th ed. New York: Routledge. 448 p
+Harper D (2002) Talking about pictures: a case for photo elicitation. Vis Stud
+17:13–26
+Hayes S, Lovelock B (2017) “Demystifying” worldmaking: exploring New
+Zealand’s clean and green imaginary through the lens of angling tourists.
+Tour Recreat Res 42:380–391
+Hayes, S., Lovelock, B., & Carr, A. (2023). ‘They sure do have a pretty colour
+palette!’: the problematic promotion of invasive species as tourism icons.
+Tourism Recreat Res, 1–19
+Head L (2017) The social dimensions of invasive plants. Nat Plants 3:1–7
+Herzog TR, Herbert EJ, Kaplan R, Crooks C (2000) Cultural and developmental
+comparisons of landscape perceptions and preferences. Environ Behav
+32:323–346
+Howell CJ (2016) Recreating the invasion of exotic conifers in New Zealand.
+Pages 258–262 in Proceedings of 20th Australasian weeds conference. Perth,
+Western Australia: Council of Australasian Weed Societies
+Johnson BJ, Hall TE, Cole DN (2005) Naturalness, Primitiveness, Remoteness
+and Wilderness: Wilderness Visitors’ Understanding and Experience of
+Wilderness Qualities. Missoula, MT: U.S. Department of Agriculture, Forest
+Service, Rocky Mountain Research Station, Aldo Leopold Wilderness
+Research Institute. 86 p https://winapps.umt.edu/winapps/media2/wilderne
+ss/toolboxes/documents/vum/Visitors%20Experience%20and%20Wilderne
+ss%20Qualities.pdf. Accessed: March 3, 2015
+Johnson J (2022) Contrasting tourist attitudes towards non-native species:
+Yellowstone National Park, USA. Pages 141–150 in Barros A, Shackleton R,
+Rew LJ, Pizarro C, Pauchard A, eds. Tourism, Recreation and Biological
+Invasions. Wallingford, UK: CABI
+Kaplan R, Herbert EJ (1987) Cultural and sub-cultural comparisons in
+preferences for natural settings. Landsc Urban Plan 14:281–293
+Karlsd´
+ottir UB (2013) Nature worth seeing! The tourist gaze as a factor in
+shaping views on nature in Iceland. Tour Stud 13:139–155
+Kellert SR, Soule M, Lease G (1995) Reinventing nature? Response to
+postmodern deconstruction. Pages 103–121 in Soulé ME, Lease G, eds.
+Concepts of Nature East and West. Washington, DC: Island Press
+Kim MJ, Hall CM, Bonn M (2021) Can the value-attitude-behavior model and
+personality predict international tourists’ biosecurity practice during the
+pandemic? J Hosp Tour Manag 48:99–109
+Kline R (2010) Principles and Practice of Structural Equation Modeling. 3rd ed.
+New York: Guildford. 427 p
+Knight AJ (2008) “Bats, snakes and spiders, oh my!” How aesthetic and
+negativistic attitudes, and other concepts predict support for species
+protection. J Environ Psychol 28:94–103
+Kourantidou M, Haubrock PJ, Cuthbert RN, Bodey TW, Lenzner B, Gozlan RE,
+Nu˜
+nez MA, Salles J-M, Diagne C, Courchamp F (2022) Invasive alien species
+as simultaneous benefits and burdens: trends, stakeholder perceptions and
+management. Biol Invasions 24:1905–1926
+Li M, Tucker H, Chen G (2021) Chineseness and behavioural complexity:
+rethinking Chinese tourist gaze studies. Tour Rev 77:841–858
+Lindemann-Matthies P (2016) Beasts or beauties? Laypersons’ perception of
+invasive alien plant species in Switzerland and attitudes towards their
+management. NeoBiota 29:15–33
+Lovelock B (2007) “If that’s a moose, I’d hate to see a rat!” Visitors’ perspectives
+on naturalness and their consequences for ecological integrity in peripheral
+natural areas of New Zealand. Pages 124–140 in Müller DK, Jansson B, eds.
+Tourism in Peripheries: Perspectives from the Far North and South.
+Wallingford, UK: CABI
+Lovelock, B., Ji, Y, Carr, A, & Blye, CJ (2022) Should tourists care more about
+invasive species? International and domestic visitors’ perceptions of invasive
+plants and their control in New Zealand. Biological invasions, 24(12),
+3905–3918
+Lovelock K, Lovelock B, Jellum C, Thompson A (2011) In search of belonging:
+immigrant experiences of outdoor nature-based settings in New Zealand.
+Leis Stud 30:513–529
+Mameno K, Kubo T, Shoji Y, Tsuge T (2020) How to engage tourists in
+invasive carp removal: application of a discrete choice model. Pages 31–44 in
+Saito O, Subramanian SM, Hashimoto S, Takeuchi K, eds. Managing Socio-
+ecological Production Landscapes and Seascapes for Sustainable commun-
+ities in Asia: Mapping and Navigating Stakeholders, Policy and Action.
+Singapore: Springer
+McNaughten P, Urry J (1998) Contested Natures. London: Sage. 320 p
+McNeely JA (2011) Xenophobia or conservation: some human dimensions of
+invasive alien species. Pages 19–36 in Rotherham ID, Lambert RA, eds.
+Invasive and Introduced Plants and Animals: Human Perceptions, Attitudes
+and Approaches to Management. London: Earthscan
+Melly D, Hanrahan J (2020) Tourist biosecurity awareness and risk mitigation
+for outdoor recreation: management implications for Ireland. J Outdoor
+Recreat Tour 31:100313
+[MBIE] Ministry of Business, Innovation and Employment (2018) New Zealand
+Tourism Forecasts 2018–2024. https://www.mbie.govt.nz/assets/5c05b7bfce/
+nz-tourism-forecasts-2018-2024-report.pdf. Accessed: April 16, 2020
+Nanayakkara L, Jurdi-Hage R, Leavitt PR, Wissel B (2018) In lakes but not in
+minds: stakeholder knowledge of invasive species in prairie lakes. Biol
+Invasions 20:633–652
+Nikodinoska N, Foxcroft LC, Rouget M, Paletto A, Notaro S (2014)
+Tourists’ perceptions and willingness to pay for the control of Opuntia
+stricta invasion in protected areas: a case study from South Africa. Koedoe
+56:1–8
+Norgaard KM (2007) The politics of invasive weed management: gender, race,
+and risk perception in rural California. Rural Sociol 72:450–477
+Oded C, Ram Y (2015) Tourism is not only the vector of biological
+invasion but also the victim: evidence from Israel. Tour Recreat Res
+40:407–410
+Packer J, Ballantyne R, Hughes K (2014) Chinese and Australian tourists’
+attitudes to nature, animals and environmental issues: implications for the
+design of nature-based tourism experiences. Tour Manag 44:101–107
+Perrings C, Williamson M, Barbier EB, Delfino D, Dalmazzone S, Shogren J,
+Simmons P, Watkinson A (2002) Biological invasion risks and the public
+good: an economic perspective. Conserv Ecol 6:1
+Pickering C, Mount A (2010) Do tourists disperse weed seed? A global review of
+unintentional human-mediated terrestrial seed dispersal on clothing,
+vehicles and horses. J Sustain Tour 18:239–256
+Rossi SD, Alvarez MA, Aschero V, Hellvig M, Bonjour LD, Mazzolari A, Scarpa
+JP, Barros A (2022) On visitors’ minds: knowledge and perceptions of
+invasive non-native plant species in mountain ecosystems. Pages 130–140 in
+Barros A, Shackleton R, Rew LJ, Pizarro C, Pauchard A, eds. Tourism,
+Recreation and Biological Invasions. Wallingford, UK: CABI
+Russell J (2014) A comparison of attitudes towards introduced wildlife in New
+Zealand in 1994 and 2012. J R Soc NZ 44:136–151
+Sage E (2019) Visitors to Aoraki/Mt Cook Exceed 1 Million. Government Press
+Release. May 16, 2019. https://www.rnz.co.nz/news/political/389345/aoraki-
+mt-cook-visitor-numbers-hit-1m-mark
+Sang ÅO, Knez I, Gunnarsson B, Hedblom M (2016) The effects of naturalness,
+gender, and age on how urban green space is perceived and used. Urban For
+Urban Green 18:268–276
+Shackleton CM, McGarry D, Fourie S, Gambiza J, Shackleton SE, Fabricius C
+(2007) Assessing the effects of invasive alien species on rural livelihoods: case
+examples and a framework from South Africa. Hum Ecol 35:113–127
+Shackleton R, Pizarro C, Rossi SD (2022) Tourists’ knowledge, perceptions and
+behaviours towards invasive species. Pages 120–130 in Barros A, Shackleton
+R, Rew LJ, Pizarro C, Pauchard A, eds. Tourism, Recreation and Biological
+Invasions. Wallingford, UK: CABI
+Shackleton RT, Larson BM, Novoa A, Richardson DM, Kull CA (2019a) The
+human and social dimensions of invasion science and management.
+J Environ Manag 229:1–9
+Invasive Plant Science and Management
+251
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------
+Shackleton RT, Richardson DM, Shackleton CM, Bennett B, Crowley SL,
+Dehnen-Schmutz K, Estévez, RA, Fischer A, Kueffer C, Kull, CA,
+Marchand E, Novoa A, Potgieter LJ, Vaas J, Vaz AS, Larson BMH
+(2019b) Explaining people’s perceptions of invasive alien species: a
+conceptual framework. J Environ Manag 229:10–26
+Sharp RL, Larson L, Green GT (2011) Factors influencing public preferences for
+invasive alien species management. Biol Conserv 144:2097–2104
+Solano A, Rodriguez SL, Greenwood L, Rosopa PJ, Coyle DR (2022) Achieving
+effective outreach for invasive species: firewood case studies from 2005 to
+2016. Biol Invasions 24:3321–3339
+Taylor DE (2018) Racial and ethnic differences in connectedness to
+nature and landscape preferences among college students. Environ Justice
+11:118–136
+Thompson A (2011) Transforming Merino Country in the Mackenzie. Pages
+159–171 in Ruru J, Stephenson J, Abbott M, eds. Making Our Place:
+Exploring Land-Use Tensions in Aotearoa New Zealand. Dunedin: Otago
+University Press
+Tourism New Zealand (2021) China—Tourism New Zealand. https://www.touri
+smnewzealand.com/insights/tourism-data/. Accessed: May 16, 2022
+Tu W (1989) The continuity of being: Chinese visions of nature. Pages 67–78 in
+Baird Callicott J, Ames RT, eds. Nature in Asian Traditions of Thought:
+Essays in Environmental Philosophy. Albany: State University of New York
+Press
+[UNWTO] United Nations World Tourism Organization (2020) UNWTO
+Briefing Note—Tourism and COVID-19, Issue 3. Understanding Domestic
+Tourism and Seizing Its Opportunities. https://www.e-unwto.org/doi/book/
+10.18111/9789284422111. Accessed: May 5, 2022
+Urry J (2002) The Tourist Gaze: Leisure and Travel in Contemporary Societies.
+2nd ed. London: Sage. 200 p
+Villéger S, Brosse S (2012) Measuring changes in taxonomic dissimilarity
+following species introductions and extirpations. Ecol Indic 18:552–558
+Vining J, Merrick MS, Price EA (2008) The distinction between humans and
+nature: human perceptions of connectedness to nature and elements of the
+natural and unnatural. Hum Ecol Rev 15:1–11
+Virden RJ, Walker GJ (1999) Ethnic/racial and gender variations among
+meanings given to, and preferences for, the natural environment. Leis Sci
+21:219–239
+Warren P (2001) Dealing with the human dimensions of invasive alien species
+within New Zealand’s biosecurity system. Pages 105–111 in McNeely JA, ed.
+The Great Reshuffling. Human Dimensions of Invasive Species. Switzerland:
+IUCN
+Whiting JW, Larson LR, Green GT, Kralowec C (2017) Outdoor recreation
+motivation and site preferences across diverse racial/ethnic groups: a case
+study of Georgia state parks. J Outdoor Recreat Tour 18:10–21
+Williams C (2007) Research methods. J Bus Econ Res 5(3)
+Yletyinen J, Perry GL, Burge OR, Mason NW, Stahlmann-Brown P (2021)
+Invasion landscapes as social-ecological systems: role of social factors in
+invasive plant species control. People Nat 3:795–810
+Yu K (1995) Cultural variations in landscape preference: comparisons
+among Chinese sub-groups and Western design experts. Landsc Urban
+Plan 32:107–126
+Zhang G, Higham JE, Albrecht JN (2021) Ecological restoration in Aotearoa
+New Zealand: contrasting tourist conservation narratives. Tour Manag
+Perspect 37:100761
+252
+Lovelock et al.: Tourists and invasive plants
+https://doi.org/10.1017/inp.2023.30 Published online by Cambridge University Press
+
+--------------------------------------------------------------------------------

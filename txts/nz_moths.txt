@@ -1,0 +1,481 @@
+A A Parkinson                                                                                            29 
+ 
+Invasive species threat to New Zealand: Asian Gypsy 
+moth (Lymantria dispar asiatica). 
+ 
+Adam A Parkinson 
+malawiadam@googlemail.com 
+ 
+Introduction 
+The rates of biological invasions continue to increase globally (Seebens et 
+al. 2021), causing significant disruption to ecosystems, habitat types and 
+taxonomic groups (Essl et al. 2020). The transportation of species to 
+regions beyond their natural range, is considered as a major driver of 
+biodiversity change (Pyšek et al. 2020), such changes to biodiversity are 
+most visible on geographically isolated islands, where high levels of 
+endemism occur (Courchamp et al. 2003). New Zealand is considered a 
+“biodiversity hotspot” due to its highly endemic biota (Myers et al. 2000), 
+all of which have evolved in isolation from many of the invasive taxa 
+present today (Allen & Lee 2006), and is a region which has been 
+negatively affected by biological invasions (Simberloff 2019). In response 
+to this, New Zealand is now widely regarded as a leading country on 
+invasive species management and biosecurity (Simberloff 2019). In 1993, 
+the Biosecurity Act was established, creating strict protocols around 
+overseas goods entering the country in order to protect agriculture and 
+biodiversity (Hulme 2020). Although costly, averaging $485 million NZD 
+per year from 2017–2020 (New Zealand Government 2019), these 
+protocols are implemented with the intention of avoiding greater future 
+costs associated with managing or removing established invasive species. 
+By examining Asian gypsy moth biological traits, regions of the world 
+which are currently under invasion, and pathways of introduction, this 
+study aims to determine if this species has the ability to establish in New 
+Zealand, and the ecological impact the species could have. 
+
+--------------------------------------------------------------------------------
+30                                                                                              The Wētā 57:29-34 
+ 
+Lymantria dispar asiatica biology  
+Lymantria dispar, also known as gypsy moths or spongy moths, is a 
+species of moth in the family Erebidae. Lymantria dispar is subdivided 
+into three (but possibly more) subspecies, Lymantria dispar dispar 
+(European gypsy moth, EGM), Lymantria dispar asiatica (Asian gypsy 
+moth, AGM), and Lymantria dispar japonica (Japanese gypsy moth, JGM) 
+(McCormick 2019, Djoumad 2017). There is a degree of uncertainty over 
+the classification, as the subspecies are notably difficult to distinguish from 
+one another, each showing strong variation in colour, wing pattern, and 
+genitalia characteristics. Comparative analysis of mitochondrial genomes 
+conducted by Djoumad et al. (2017) showed potential usefulness in the 
+identification of subspecies, however, the currently accepted biological 
+distinctiveness is based upon sexual and functional dimorphism (flight 
+capability of adult female moths), and distribution. The complete loss of 
+flight ability in females is a key morphological trait that sets EGM apart 
+from the other two subspecies. The females of AGM and JGM are flight 
+capable and have comparatively larger wings and lower abdominal mass 
+compared to EGM females, however, JGM’s range is believed to be 
+restricted to Japan (McCormick 2019). 
+Male AGM are comparatively smaller in size to the female (Fig. 1), 
+antennae are bipectinated, abdomen is slender and brownish, forewings are 
+very variable in colour, markings are brownish to blackish, with a thick 
+darker band along the distal margin. Subbasal band near the costa, 
+submarginal spots are variably developed V shaped marks, crescent shaped 
+discal spot is also well-defined. Hindwings are yellowish to orange, 
+usually with a darker band around wing margin (Horak et al. 2020). 
+Female AGM abdomen is yellowish to white, and darker in the last 
+abdominal segments. (Fig. 1). Forewings are yellowish to white, with few 
+and faint brownish markings. Usually, a few faint darker spots near base, 
+subbasal band present as a curved brown mark near costa. Antemedial 
+band is faint, originating from middle of costa and is sharply angled. Faint 
+postmedial band, thin, zig-zag line, angled and roughly parallel to 
+antemedial band. A row of small dark marks along outer margin, and 
+
+--------------------------------------------------------------------------------
+A A Parkinson                                                                                            31 
+ 
+brown crescentic discal marks are prominent. Hindwing whitish, with a 
+series of dark small marginal spots, and a faint submarginal band (Horak et 
+al. 2020). Adult moths do not feed, and live up to three weeks (Humble 
+1994). 
+ 
+Figure 1. Lymantria dispar asiatica imago, female (left) male (right). (Source: US 
+Department of Agriculture, 2023). 
+ 
+ 
+ 
+Figure 2. Lymantria dispar asiatica female oviposting and egg mass 
+(Source: University of Wisconsin-Madison, Division of Extension).  
+
+--------------------------------------------------------------------------------
+32                                                                                              The Wētā 57:29-34 
+ 
+Female AGM emit sex pheromone cis-7, 8-epoxy-2-methyloctadecane 
+soon after eclosion to attract males (Pogue & Schaefer 2007). This usually 
+takes place during daytime, peaking in the late afternoon and followed by a 
+secondary peak before midnight (Cardé et al. 1996).  Oviposition 
+behaviour is variable over the wide distribution of this subspecies, with 
+members of each region preferring different biotopes (Pogue & Schaefer 
+2007). Across central Asia, egg masses are often placed on the underside 
+of large pine tree branches (Fig. 2), while in Russia and Mongolia, oviposit 
+in to crevasses on rocky outcrops, and occasionally directly on the soil 
+under boulders (Hauck et al. 2008). These are sometimes found in such 
+large concentrations, that egg masses are found on top of other eggs 
+masses, each containing between 100-1000 eggs (Petrovskii 2010). In 
+Siberia, egg masses can be found overwintering covered by accumulating 
+snow. Experiments by Pogue and Schaefer (2007) found that those egg 
+masses covered by snow are protected from extreme cold temperatures and 
+desiccating winds, which caused significant egg mortality. They went on 
+to conclude that temperature drops to the critical value of –29,9 °C leads to 
+the death of 100 % of eggs, and the viability of eggs drops as they are 
+exposed to longer periods of cold temperatures. 
+AGM are known to have one generation per year (Petrovskii 2010), and 
+between six or seven larval instars. Laval dispersal is aided by 
+“ballooning”, larvae produce silk strands on which they suspend from, and 
+are passively dispersed by the wind (Diss et al. 1996). Ballooning has been 
+shown to allow larvae to travel around 5km per year to new infestations, 
+but has been recorded at over 50km (ISSG 2023). Newly hatched 
+caterpillars (2-3mm) are black and hairy, later developing to an easily 
+recognisable final larval stage (60mm), usually charcoal grey but colour 
+variation is quite common (Fig. 3). A double row of five blue and six red 
+dots on its back, and a yellow middorsal longitudinal band extending along 
+thoracic and abdominal segments (often faint). Setae are prominent along 
+each abdominal segment, longer at the head and hind region (US 
+Department of Agriculture, ISSG 2023). Larvae seek out protected 
+locations when ready pupate, such as bark fissures, crevices and 
+underneath loose moss. Pupae are dark reddish brown in colour, female 
+
+--------------------------------------------------------------------------------
+A A Parkinson                                                                                            33 
+ 
+pupae are usually larger (15-35mm) than male (15-20mm).  The Pupal 
+stages vary depending on sex, usually around 10 days for females and 13 
+days for males (Humble & Stewart 1994).  
+ 
+Lymantria dispar asiatica native range and ecological Impact 
+AGM is widely distributed throughout Asia, the Russian Far East, 
+Mongolia, the northern two thirds of China, and the Korean Peninsula 
+(Pogue & Schaefer 2007). AGM have an extremely wide host range, with 
+over 100 known hosts, and have been referred to as ‘superpolyphagous’ 
+because of this (Horak et al. 2020). Cyclic population dynamics are well 
+documented, low population levels can exist for many years, periodically 
+population’s boom, causing extensive defoliation and damage until they 
+decline. The natural enemies which occur in the native range of AGM, 
+play different roles in regulating its populations. Birds feed on larvae, 
+adults and egg masses during winter, rodents are reported to prey on larvae 
+and pupae, along with spiders, assassin bugs, shield bugs and beetles 
+(Baranchikov et al. 1998). More than 70 species, primarily tachinids (Fig. 
+4), ichneumonids, and braconids, have been reported to attack the gypsy 
+moth in Asia. Most of these parasitoids affect the larval and the pupal 
+stages, but a few can parasitize eggs (Baranchikov et al. 1998). 
+ 
+Lymantria dispar asiatica invasive distribution, ecological and 
+economic Impact 
+Over a century since AGM’s accidental introduction, North America 
+(primarily the United States) (Fig. 5) has found AGM to be of serious 
+concern, damaging both commercial and native forest ecosystems (Hajek 
+& Tobin 2009). Population booms have led to the serious defoliation and 
+weakening of trees and shrubs, often leading to tree death directly or 
+indirectly by subsequent infestation by a secondary pest (Srivastava, 
+2020). The impact on crop yields, and economic costs associated with 
+monitoring and controlling the invasive species are high. Eradication of 
+
+--------------------------------------------------------------------------------
+34                                                                                              The Wētā 57:29-34 
+ 
+two introductions in the early 1990’s involved costs totalling US$ 34 
+million (Krcmar-Nozic et al. 2000). Long distance pathway vectors, 
+primarily shipping and cargo containers arriving from ships arriving from 
+ports of known to be within AGM’s native range, are believed to be the 
+source of establishment (Areces-Berazain, 2022).  
+ 
+Potential establishment of Lymantria dispar asiatica in New Zealand 
+The global shipping network is widely recognised as a pathway for 
+vectoring AGM, and with the growing number of international ships 
+whose first port of call to vulnerable ports (i.e., a port where AGM is 
+established) before arriving in New Zealand, led to the Ministry of Primary 
+Industries (MPI) launching a national trapping programme in March 1993. 
+Monitoring of incoming goods from vulnerable ports has shown that in 
+2000 to 2002, 124 inceptions of AGM (107 egg masses, 9 larvae, 7 pupae 
+and one adult) (Ross 2005), yet despite this, it was 10 years after 
+implementation of the trapping programme that the first ever gypsy moth 
+was discovered in the North Island city of Hamilton (MPI, 2023), and 
+since then no further AGM’s have been found. 
+Paini et al. (2018) used the Matsuki CLIMEX model to estimate those 
+areas that are climatically suitable for AGM establishment (Fig. 6), 
+showing conditions across North and South East New Zealand to be 
+habitable. The strongest predictors and limitations of AGM potential range 
+and dispersal being annual and seasonal precipitation, and regions which 
+experience longer periods of temperatures ≥30 °C (optimum temperature 
+conditions for AGM survival being 15- 25 °C) (Srivastava 2020). Yet the 
+risk of AGM establishing in native forests may be low due to poor larval 
+performance on native plants, with only one species of native tree 
+(Nothofagus solandri) proving to be a successful host (Matsuki et al. 
+2001). The risk of establishment in urban environments and agricultural 
+land, which support high quantities of exotic plants known to be host 
+species, could be significantly higher (list of known hosts which are 
+present in New Zealand are shown in appendix 1.) 
+
+--------------------------------------------------------------------------------
+A A Parkinson                                                                                            29 
+ 
+ 
+Figure 3. Lymantria dispar asiatica 
+caterpillar colour variation in final 
+instar (Source: US Department of 
+Agriculture, ISSG, 2023). 
+ 
+Figure 4. Lymantria dispar asiatica 
+larva with tachinid eggs (white spots 
+on dorsum) probably of Parasetigena 
+sp. (Diptera: Tachinidae) (Source: 
+P.W. Schaefer). 
+ 
+ 
+ 
+ 
+ 
+Figure 5. Global distribution of Lymantria dispar asiatica, showing native range 
+across Eurasia and introduced range across North America (Source: Gbif.org, 
+2023). 
+ 
+
+--------------------------------------------------------------------------------
+30                                                                                              The Wētā 57:29-34 
+ 
+ 
+Figure 6. Climate suitability for gypsy moth (L. d. asiatica) in New Zealand 
+modelled using CLIMEX Ecoclimatic Index (EI). (Paini et al. 2018). 
+ 
+There are a number of biological traits which provide strong dispersal 
+methods, making AGM of even greater concern if becoming established. 
+There is evidence to show that a proportion of AGM eggs do not undergo 
+obligatory diapause and they hatch over a longer period, increasing the 
+chance of introduction to new environments if pupae are undetected (Glare 
+et al. 1998). The absence of natural enemies in New Zealand, decreases 
+population suppression, increasing the potential long-term population 
+
+--------------------------------------------------------------------------------
+A A Parkinson                                                                                            31 
+ 
+fluctuations which are observed in North America, which is notable 
+especially in the first few years after introduction (Glare et al. 1998). 
+Larvae “ballooning” could drastically increase the initial range of 
+establishment, and push the species in to new territory with ease. The 
+volume of eggs which females are capable of ovipositing and the positing 
+of these, could lead to populations surviving and thriving in areas of 
+suitable hosts, proving very difficult to remove.   
+These findings suggest that surveillance, continued monitoring, and strict 
+biosecurity checks are crucial to prevent AGM entering New Zealand’s 
+borders. Moreover, as the global patterns of AGM invasions continue, and 
+likely advances and frequency of international trade to New Zealand 
+persist, further trapping programmes across regions would be key to 
+lowering the risk of establishment. 
+ 
+References 
+Allen RB, Lee WG. 2006. Biological Invasions in New Zealand. Ecological 
+Studies, Volume 186. Pages 2-4.  
+Areces-Berazain F. 2022. Lymantria dispar asiatica (Asian gypsy moth). CABI 
+Compendium. CABI digital library. doi.org/10.1079/cabicompendium.8248174 
+Cardé RT, Charlton RE, Wallner WE, Baranchikov YN. 1996. Pheromone-
+Mediated Diel Activity Rhythms of Male Asian Gypsy Moths (Lepidoptera: 
+Lymantriidae) in Relation to Female Eclosion and Temperature. Entomological 
+Society of America, Volume 89, Issue 5, Pages 745–
+753, https://doi.org/10.1093/aesa/89.5.745 
+Courchamp F, Chapuis J, Pascal M. 2003. Mammal invaders on islands: Impact, 
+control and control impact. Biological Reviews, 78(3), 347-383. 
+doi:10.1017/S1464793102006061 
+Diss AL, Kunkel JG, Montgomery ME. 1996. Effects of maternal nutrition and 
+egg provisioning on parameters of larval hatch, survival and dispersal in the 
+gypsy moth, Lymantria dispar, L. Oecologia 106, 470–477 
+https://doi.org/10.1007/BF00329704 
+Essl F, Lenzner B, Bacher S, Bailey S, Capinha C. Daehler C, Dullinger S, 
+Genovesi P, Hui C, Hulme PE, Jeschke JM, Katsanevakis S, Kuhn I, Leung B, 
+Liebhold A, Liu C, MacIsaac HJ, Meyerson LA, Nunez MA, Pauchard A, Pysek 
+P, Rabitsch W, Richardson DM, Roy HE, Ruiz GM, Russell JC, Sanders NJ, 
+Sax DF, Scalera R, Seebens H, Springborn M, Turbelin A, van Kleunen M, 
+
+--------------------------------------------------------------------------------
+32                                                                                              The Wētā 57:29-34 
+ 
+Holle Bvon, Winter M, Zenni RD, Mattsson BJ, Roura-Pascual N. 2020. Drivers 
+of future alien species impacts: an expert-based assessment. Global Change 
+Biology. 2020; 26 (9):4880–4893. doi: 10.1111/gcb.15199. 
+Glare TR, Barlow ND, Walsh PJ. 1998. Potential agents for Eradication or control 
+of gypsy Moth in New Zealand. Proceedings of the New Zealand Plant 
+Protection Conference, 224-229. New Zealand Plant Protection Society. 
+doi:0.30843/nzpp.1998.51.11657 
+Hajek A, Tobin PC. 2009. North American Eradications of Asian and European 
+Gypsy Moth. Use of Microbes for Control and Eradication of Invasive 
+Arthropods. Progress in Biological Control, vol 6, Pages 71-89.                          
+doi.org/10.1007/978-1-4020-8560-4_5 
+Hauck M, Dulamsuren C, Heimes C. 2008. Effects of insect herbivory on the 
+performance of Larix sibirica in a forest-steppe ecotone. Environmental and 
+Experimental Botany, Volume 62, Issue 3, Pages 351-356, 
+doi.org/10.1016/j.envexpbot.2007.10.025. 
+Horak M, Mitchell A, Williams M. 2020 National Diagnostic Protocol for Gypsy 
+Moths (Erebidae: Lymantriinae: Lymantriini: Lymantria), focussing on L. 
+dispar asiatica. Subcommittee on Plant Health Diagnostics. Australian 
+Department of Agriculture and Water Resources.  
+Hulme PE. 2020. Plant invasions in New Zealand: global lessons in prevention, 
+eradication and control. Biological Invasions 22, 1539–1562. 
+https://doi.org/10.1007/s10530-020-02224-6 
+Humble L, Stewart AJ. 1994. Forest Pest Leaflet - Gypsy Moth. Canadian Forest 
+Service. ISBN 0-662-21581-8 
+Invasive Species Specialist Group (ISSG). Global Invasive Species Database, 
+(accessed 2023) Species profile: Lymantria dispar. 
+iucngisd.org/gisd/species.php?sc=96 on 18-05-2023 
+Information Report - Pacific 
+Forestry Centre, Canadian Forest Service: Pacific Forestry Centre. 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.487.6469&rep=rep1
+&type=pdf 
+Matsuki M, Kay M, Serin J, Floyd R, Scott JK. 2001. Potential risk of accidental 
+introduction of Asian gypsy moth (Lymantria dispar) to Australasia: effects of 
+climatic conditions and suitability of native plants. Agricultural and Forest 
+Entomology, volume 3, Issue 4, Pages 305-320. doi.org/10.1046/j.1461-
+9555.2001.00119.x 
+Biodiversity hotspots for conservation priorities. Nature. 403:853–858. 
+doi:10.1038/35002501 
+
+--------------------------------------------------------------------------------
+A A Parkinson                                                                                            33 
+ 
+Paini DR, Mwebaze P, Kuhnert PM, Kriticos DJ. 2018. Global establishment 
+threat from a major forest pest via international shipping: Lymantria dispar. 
+Scientific Reports. doi: 10.1038/s41598-018-31871-y. PMID: 30213967; 
+PMCID: PMC6137135. 
+Pogue M, Schaefer PW. 2007. A review of selected species of Lymantria Hübner 
+(1819) (Lepidoptera: Noctuidae: Lymantriinae) from subtropical and temperate 
+regions of Asia, including the descriptions of three new species, some 
+potentially invasive to North America. United States Department of Agriculture 
+and Forest Health Technology Enterprise Team.  
+Pyšek P, Pergl J, Essl F, Lenzner B, Dawson W, Kreft ., Weigelt P, Winter M, 
+Kartesz J, Nishino M, Antonova LA, Barcelona JF, Cabezas FJ., Cárdenas D, 
+Cárdenas-Toro J, Castańo N, Chacón E, Chatelain C, Dullinger S, Ebel AL, 
+Figueiredo E, Fuentes N, Genovesi P, Groom QJ, Henderson L, Inderjit 
+Kupriyanov A, Masciadri S, Maurel N, Meerman Morozova J, Moser D, 
+Nickrent D, Nowak PM, Pagad S, Patzelt A, Pelser PB, Seebens H, Shu W, 
+Thomas J, Velayos M, Weber E, Wieringa JJ, Baptiste MP & van Kleunen M. 
+2017. Naturalized alien flora of the world: species diversity, taxonomic and 
+phylogenetic patterns, geographic distribution and global hotspots of plant 
+invasion. – Preslia 89: 203–274, https://doi.org/10.23855/preslia.2017.203 
+Ross MG. 2005. Response to a Gypsy moth incursion within New Zealand. 
+International Union of Forest Research Organizations conference. Biosecurity 
+New Zealand, MPI. 
+Seebens H, Bacher S, Blackburn TM, Capinha C, Dawson W, Dullinger S, 
+Genovesi P, Hulme PE, van Kleunen M, Kühn I, Jeschke JM, Lenzner, B, 
+Liebhold AM, Pattison Z, Pergl J, Pyšek P, Winter M, Essl F. 2021. Projecting 
+the continental accumulation of alien species through to 2050. Global Change 
+Biology. 2021; 27(5):970–982. doi:0.1111/gcb.15333 
+Srivastava V, Griess VC, Keena MA. 2020. Assessing the Potential Distribution 
+of Asian Gypsy Moth in Canada: A Comparison of Two Methodological 
+Approaches. Scientific Reports. doi.org/10.1038/s41598-019-57020-7 
+Simberloff D. 2019. New Zealand as a leader in conservation practice and 
+invasion management. Journal of the Royal Society of New Zealand, 49:3, 259-
+280, DOI: 10.1080/03036758.2019.1652193 
+University of Wisconsin-Madison, Division of Extension (accessed 2023) 
+Lymantria dispar Fact Sheet. 
+https://fyi.extension.wisc.edu/spongymothinwisconsin 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+34                                                                                              The Wētā 57:29-34 
+ 
+Appedix 1 
+This list of known host plants of Lymantria dispar was sourced from the 
+Subcommittee on Plant Health Diagnostics - National Diagnostic Protocol for 
+Lymantria dispar. Taxa removed if not present in New Zealand. 
+Family 
+Genus 
+Biostatus 
+Leguminosae 
+Acacia 
+Exotic 
+Sapindaceae 
+Acer 
+Exotic 
+Betulaceae 
+Alnus 
+Exotic 
+Betulaceae 
+Betula 
+Exotic 
+Myrtaceae 
+Callistemon 
+Exotic 
+Betulaceae 
+Carpinus 
+Exotic 
+Juglandaceae 
+Carya 
+Exotic 
+Fagaceae 
+Castanea 
+Exotic 
+Corylaceae 
+Corylus 
+Exotic 
+Myrtaceae 
+Corymbia 
+Exotic 
+Ebenaceae 
+Diospyrus 
+Exotic 
+Myrtaceae 
+Eucalyptus 
+Exotic 
+Myrtaceae 
+Eugenia 
+Exotic 
+Fagaceae 
+Fagus 
+Exotic 
+Oleaceae 
+Fraxinus 
+Exotic 
+Pinaceae 
+Larix 
+Exotic 
+Myrtaceae 
+Leptospermum 
+Native 
+Hamamelidaceae 
+Liquidambar 
+Exotic 
+Sapindaceae 
+Litchi 
+Exotic 
+Rosaceae 
+Malus 
+Exotic 
+Fagales 
+Nothofagus 
+Native 
+Pinaceae 
+Picea 
+Exotic 
+Pinaceae 
+Pinus 
+Exotic 
+Platanaceae 
+Platanus 
+Exotic 
+Salicaceae 
+Populus 
+Exotic 
+Rosaceae 
+Prunus 
+Exotic 
+Pinaceae 
+Pseudotsuga 
+Exotic 
+Rosaceae 
+Pyrus 
+Exotic 
+Fagaceae 
+Quercus 
+Exotic 
+Fabaceae 
+Robinia 
+Exotic 
+Salicaceae 
+Salix 
+Exotic 
+Cupressaceae 
+Taxodium 
+Exotic 
+Malvaceae 
+Tilia 
+Exotic 
+Ulmaceae 
+Ulmus 
+Exotic 
+Ericaceae 
+Vaccinium 
+Exotic 
+Poaceae 
+Zea 
+Exotic 
+ 
+
+--------------------------------------------------------------------------------
