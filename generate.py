@@ -13,6 +13,8 @@ load_dotenv()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+
+
 def generate_response(user_input):
     model = ChatOpenAI(openai_api_key=OPENAI_API_KEY, model="gpt-3.5-turbo")
     parser = StrOutputParser()
@@ -24,9 +26,6 @@ def generate_response(user_input):
 
     Question: {question}
     
-    Source: {source}
-    
-    
     """
     prompt = ChatPromptTemplate.from_template(template)
     vectorstore = pinecone
@@ -37,15 +36,15 @@ def generate_response(user_input):
     retrieval_result = retriever.invoke(user_input)
     
     # Extract and print only the metadata['source'] part
-    sources = [doc.metadata['source'] for doc in retrieval_result]
+    # sources = [doc.metadata['source'] for doc in retrieval_result]
     # for source in sources:
     #     print(f"metadata={{'source': '{source}'}}")
         
     # context = " ".join([doc.page_content for doc in retrieval_result])
-    source = " ".join(sources)
+    # source = " ".join(sources)
     
     # context = retrieval_result
-    # print("HERES YOUR FUCKING CONTEXT: ", retrieval_result)
+    # print("HERES YOUR  CONTEXT: ", retrieval_result)
     # source = " ".join([doc.metadata["source"] for doc in retrieval_result])
     
     
@@ -56,16 +55,16 @@ def generate_response(user_input):
     #     "source": source
     # }
     
-    setup = RunnableParallel(context=retriever, question=RunnablePassthrough(), source=RunnablePassthrough())
+    setup = RunnableParallel(context=retriever, question=RunnablePassthrough())
     chain = setup | prompt | model | parser
     
     response = chain.invoke(user_input)
 
-    
+    source=RunnablePassthrough()
     # print(f"Response: {response['answer']}")
     # print(f"Source document: {source}")
     
-    return response, source
+    return response
+
+# def provide_source():
     
-# answer = generate_response("How is glass recycled in NZ?")
-# print("HERE IS YOUR ANSWER: ", answer)

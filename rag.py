@@ -21,7 +21,8 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 
 
-def main(user_input):
+
+def run_rag(user_input):
     answer = generate_response(user_input)
     generate_data_store()
     print("This is your answer: ", answer)
@@ -36,5 +37,9 @@ def generate_data_store():
     save_to_pinecone(chunks)
 
 
-if __name__ == "__main__":
-     main("what problems do mice create?")
+# TEST/DEBUG CODE
+# def main(user_input):
+#     run_rag(user_input)
+
+# # if __name__ == "__main__":
+#     run_rag("what problems do mice create?")

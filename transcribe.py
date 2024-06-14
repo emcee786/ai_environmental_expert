@@ -39,7 +39,7 @@ def transcribe_audio_file(audio:str, save_as: str):
     if not os.path.exists(TRANSCRIPTION_FILE):
         whisper_model = whisper.load_model("base")
         
-        # Transcribe the audio file
+        # Transcribe audio file
         transcription = whisper_model.transcribe(audio, fp16=False)["text"].strip()
        
         # Store the transcription in a string variable

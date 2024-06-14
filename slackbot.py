@@ -41,21 +41,6 @@ def get_bot_user_id():
         print(f"Error: {e}")
 
 
-# def my_function(text):
-#     """
-#     Custom function to process the text and return a response.
-#     In this example, the function converts the input text to uppercase.
-
-#     Args:
-#         text (str): The input text to process.
-
-#     Returns:
-#         str: The processed text.
-#     """
-#     response = text.upper()
-#     return response
-
-
 @slack_app.event("app_mention")
 def handle_mentions(body, say):
     """
@@ -74,6 +59,7 @@ def handle_mentions(body, say):
     
     say("Sure thing, happy to help!")
     response = run_rag(text)
+    print("SLACKBOT should say: ", response)
     say(response)
 
 @flask_app.route("/slack/events", methods=["POST"])
