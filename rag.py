@@ -38,8 +38,8 @@ def generate_data_store():
 
 
 # TEST/DEBUG CODE
-# def main(user_input):
-#     run_rag(user_input)
+def main(user_input):
+    run_rag(user_input)
 
-# # if __name__ == "__main__":
-#     run_rag("what problems do mice create?")
+if __name__ == "__main__":
+    run_rag("what problems do mice cause?")

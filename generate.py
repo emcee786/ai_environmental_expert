@@ -12,13 +12,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-
-
-def generate_response(user_input):
-    model = ChatOpenAI(openai_api_key=OPENAI_API_KEY, model="gpt-3.5-turbo")
-    parser = StrOutputParser()
-    template = """
+model = ChatOpenAI(openai_api_key=OPENAI_API_KEY, model="gpt-3.5-turbo")
+parser = StrOutputParser()
+template = """
     Answer the question based on the context below. If you can't 
     answer the question, reply "I don't know".
 
@@ -27,44 +23,20 @@ def generate_response(user_input):
     Question: {question}
     
     """
-    prompt = ChatPromptTemplate.from_template(template)
-    vectorstore = pinecone
-    retriever = vectorstore.as_retriever()
-    
-  
-   # Retrieve context and source metadata
-    retrieval_result = retriever.invoke(user_input)
-    
-    # Extract and print only the metadata['source'] part
-    # sources = [doc.metadata['source'] for doc in retrieval_result]
-    # for source in sources:
-    #     print(f"metadata={{'source': '{source}'}}")
-        
-    # context = " ".join([doc.page_content for doc in retrieval_result])
-    # source = " ".join(sources)
-    
-    # context = retrieval_result
-    # print("HERES YOUR  CONTEXT: ", retrieval_result)
-    # source = " ".join([doc.metadata["source"] for doc in retrieval_result])
-    
-    
-    # # Create the input for the prompt
-    # input_data = {
-    #     "context": context,
-    #     "question": user_input,
-    #     "source": source
-    # }
-    
-    setup = RunnableParallel(context=retriever, question=RunnablePassthrough())
-    chain = setup | prompt | model | parser
-    
-    response = chain.invoke(user_input)
+prompt = ChatPromptTemplate.from_template(template)
+vectorstore = pinecone
+retriever = vectorstore.as_retriever()
+setup = RunnableParallel(context=retriever, question=RunnablePassthrough())
+chain = setup | prompt | model | parser
 
-    source=RunnablePassthrough()
+def generate_response(user_input):
+    response = chain.invoke(user_input)
+    retrieval_result = retriever.invoke(user_input)
+    sources = [doc.metadata['source'] for doc in retrieval_result]
+    source_str = ', '.join(sources)
+    
+    response_with_source = response + "\nSources: " + source_str
     # print(f"Response: {response['answer']}")
     # print(f"Source document: {source}")
-    
-    return response
-
-# def provide_source():
-    
+    print(type(response_with_source))
+    return response_with_source
