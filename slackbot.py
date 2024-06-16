@@ -58,9 +58,10 @@ def handle_mentions(body, say):
     text = text.replace(mention, "").strip()
     
     say("Sure thing, happy to help!")
-    response = run_rag(text)
+    response, source = run_rag(text)
     print("SLACKBOT should say: ", response)
     say(response)
+    say(source)
 
 @flask_app.route("/slack/events", methods=["POST"])
 def slack_events():

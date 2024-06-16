@@ -10,6 +10,7 @@ def split_text(documents: list[Document]):
     chunks = text_splitter.split_documents(documents)
     
     ## Debug Code
+    # print("Splitter.py DEBUG code")
     # print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
     # document = chunks[4]
     # print(document.page_content)

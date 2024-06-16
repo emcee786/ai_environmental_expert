@@ -96,7 +96,10 @@ def process_pdfs():
              # Move the original PDF to the archive container
             move_pdf_to_archive(blob_name)
 
+
+
+
 # # Run the process
-process_pdfs()
+# process_pdfs()
 
 

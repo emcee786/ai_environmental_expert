@@ -19,4 +19,4 @@ def save_to_pinecone(chunks):
     chunks, embeddings, index_name=index_name
 )   
     #debug code
-    print("saved to vectorstore")
+    print("vectorestore.py - SAVED")
