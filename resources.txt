@@ -1,0 +1,5 @@
+Tutorials and Git Repos referenced over the course of this project
+
+Azure Blob Storage
+https://www.youtube.com/watch?v=DrjIexCTF70
+

@@ -1,0 +1,33 @@
+
+# Web framework and  HTTP requests
+Flask
+requests
+ngrok #for exposing local server to the internet. 
+
+
+# Slack app Framework and API client
+slack-sdk
+slack-bolt
+
+#Pinecone vector database
+pinecone-client
+langchain-pinecone
+
+#Langchain Tools
+langchain-core
+langchain-community
+langchain-openai
+langchain-prompts
+langchain-runnables
+
+# Load environment variables(API keys) from .env file
+python-dotenv
+
+
+# Access Azure storage and process PDFs
+azure-storage-blob
+pymupdf #fitz
+
+# Transcribe YouTube Videos & audio files.
+whisper
+pytube

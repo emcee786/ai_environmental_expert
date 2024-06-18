@@ -2,8 +2,7 @@ import os
 from datetime import datetime, timedelta
 from azure.storage.blob import BlobServiceClient, generate_blob_sas, BlobSasPermissions
 import requests
-import fitz  # PyMuPDF
-# from loader import DATA_PATH
+import fitz  
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -11,7 +10,6 @@ load_dotenv()
 # Ensure the 'pdfs' directory exists
 pdf_path = 'rag_ai_expert/pdfs'
 txt_path = 'txts'
-# https://www.youtube.com/watch?v=DrjIexCTF70
 
 #azure blob credentials
 account_name = 'rcouncilnz'
@@ -53,6 +51,7 @@ def download_pdf(blob_name):
 
 
 def extract_text_from_pdf(pdf_path, txt_path):
+    #extract text from pdf file and save to local directory.
     pdf_document = fitz.open(pdf_path)
     with open(txt_path, 'w', encoding='utf-8') as txt_file:
         for page_num in range(pdf_document.page_count):
@@ -65,6 +64,7 @@ def extract_text_from_pdf(pdf_path, txt_path):
 
     
 def upload_txt_to_blob(txt_path, blob_name):
+    # upload newly created txt files to txt storage container in Azure 
     blob_client = text_container_client.get_blob_client(blob_name)
     with open(txt_path, "rb") as data:
         blob_client.upload_blob(data, overwrite=True)
@@ -99,7 +99,7 @@ def process_pdfs():
 
 
 
-# # Run the process
+# TEST CODE
 # process_pdfs()
 
 
