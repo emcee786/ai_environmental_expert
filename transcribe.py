@@ -1,22 +1,26 @@
 import os
+import pandas as pd
 import tempfile
 import whisper
 from pytube import YouTube
+from blobstorage import upload_txt_to_blob
 
-
-DATA_PATH = "data"
+DATA_PATH = "rag_data/txts"
 os.makedirs(DATA_PATH, exist_ok=True)
 
 
-def transcribe_youtube_video(YOUTUBE_VIDEO: str, save_as: str):
-    TRANSCRIPTION_FILE = os.path.join(DATA_PATH, f"{save_as}.txt")
-   
+def transcribe_youtube_video(YOUTUBE_VIDEO: str):
+    youtube = YouTube(YOUTUBE_VIDEO)
+    video_title = youtube.title
+    save_as = video_title.lower().replace(" ", "-")
+    video_url = youtube.watch_url
+    
+    TRANSCRIPTION_FILE = os.path.join(DATA_PATH, f"vid_{save_as}.txt")
+    
     if not os.path.exists(TRANSCRIPTION_FILE):
-        youtube = YouTube(YOUTUBE_VIDEO)
-        video_title = youtube.title
-        video_url = youtube.watch_url
+
         audio = youtube.streams.filter(only_audio=True).first()
-        print("function got to here")
+        print(f"Processing video: {video_title}")
         
 
         whisper_model = whisper.load_model("base")
@@ -31,6 +35,9 @@ def transcribe_youtube_video(YOUTUBE_VIDEO: str, save_as: str):
             file.write(f"Title: {video_title}\n")
             file.write(f"URL: {video_url}\n\n")
             file.write(transcription)
+        
+        upload_txt_to_blob(TRANSCRIPTION_FILE, f"vid_{save_as}.txt")
+        
 
 
 def transcribe_audio_file(audio:str, save_as: str):
@@ -47,13 +54,23 @@ def transcribe_audio_file(audio:str, save_as: str):
             file.write(transcription)
     
     
+def process_youtube_csv(csv_file: str):
+    try:
+        df = pd.read_csv(csv_file, delimiter=',', header=None, on_bad_lines='skip')
+        for url in df[0]:
+            transcribe_youtube_video(url)
+    except pd.errors.ParserError as e:
+        print(f"Error reading the CSV file: {e}")
+
+
+
 
 
 # ## TEST CODE 
 # video =  "https://youtu.be/tvHv3sguT3U"
-# video_title = "recycle-plastic2"
+
             
-# transcribe_youtube_video(video, video_title)
+# transcribe_youtube_video(video)
 
 
 # audio = "data/voicenote.wav"
@@ -61,3 +78,6 @@ def transcribe_audio_file(audio:str, save_as: str):
 
 # transcribe_audio_file(audio, audio_title)
 
+# if __name__ == "__main__":
+#     csv_file_path = "rag_data/youtube_links.csv"  
+#     process_csv(csv_file_path)

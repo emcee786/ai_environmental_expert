@@ -1,15 +1,16 @@
 import os
+import fitz
+import requests  
 from datetime import datetime, timedelta
 from azure.storage.blob import BlobServiceClient, generate_blob_sas, BlobSasPermissions
-import requests
-import fitz  
 
 from dotenv import load_dotenv
 load_dotenv()
 
-# Ensure the 'pdfs' directory exists
-pdf_path = 'rag_ai_expert/pdfs'
-txt_path = 'txts'
+from load import PDF_PATH, TXT_PATH
+
+pdf_path = PDF_PATH
+txt_path = TXT_PATH
 
 #azure blob credentials
 account_name = 'rcouncilnz'
@@ -44,10 +45,10 @@ def download_pdf(blob_name):
     #download pdf files to local directory
     sas_url = get_sas_url(blob_name, source_container_name)
     response = requests.get(sas_url)
-    pdf_path = os.path.join('pdfs', blob_name)
-    with open(pdf_path, 'wb') as f:
+    pdf_path_ = os.path.join(PDF_PATH, blob_name)
+    with open(pdf_path_, 'wb') as f:
         f.write(response.content)
-    return pdf_path
+    return pdf_path_
 
 
 def extract_text_from_pdf(pdf_path, txt_path):
@@ -60,7 +61,6 @@ def extract_text_from_pdf(pdf_path, txt_path):
             txt_file.write(text)  # Write the text to the file
             txt_file.write("\n" + "-"*80 + "\n")  # Add a separator between pages
     print(f"Text extracted and saved to {txt_path}")
-
 
     
 def upload_txt_to_blob(txt_path, blob_name):
@@ -81,6 +81,17 @@ def move_pdf_to_archive(blob_name):
     # Delete the blob from the source container after copying
     source_blob.delete_blob()
     print(f"PDF file {blob_name} moved to Azure Blob Storage container {archive_container_name}")
+    
+def delete_local_file(filepath):
+    ## Remove files from local drive that have already been vectorised or uploaded to Azure. 
+    try:
+        os.remove(filepath)
+        print(f"{filepath} has been removed from local drive.")
+    except FileNotFoundError:
+        print(f"{filepath} cannot be found.")
+    except Exception as e:
+        print(f"An error occurred while deleting {filepath}: {e}")
+        
 
 def process_pdfs():
     for blob in source_container_client.list_blobs():
@@ -95,11 +106,12 @@ def process_pdfs():
             upload_txt_to_blob(text_path, txt_name)
              # Move the original PDF to the archive container
             move_pdf_to_archive(blob_name)
-
-
+            # Delete locally downloaded PDF
+            # delete_local_file(pdf_path)    
 
 
 # TEST CODE
-# process_pdfs()
+
+process_pdfs()
 
 

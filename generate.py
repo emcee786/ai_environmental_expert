@@ -6,9 +6,11 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 
 from vectorstore import pinecone
-from blobstorage import get_sas_url, archive_container_name
+from blobstorage import get_sas_url, archive_container_name, txt_container_name
+
 
 from dotenv import load_dotenv
+
 
 load_dotenv()
 
@@ -34,19 +36,44 @@ def generate_response(user_input):
     response = chain.invoke(user_input)
     return response
     
-def generate_source_pdf(user_input):
+def generate_source_url(user_input):
     retrieval_result = retriever.invoke(user_input)
     sources = [doc.metadata['source'] for doc in retrieval_result]
-    
-    ## Need to check for double ups in filenames
-    for source in sources:
-        source_name = source.lstrip('txts/').rstrip('.txt')+ '.pdf'
-        source_url = get_sas_url(source_name, archive_container_name)
-        print("generate.py SOURCE_URL: ", source_url)
-    
+    unique_urls = []
+     
+    for i, source in enumerate(sources):
+        # Check if the current source has appeared earlier in the list
+        if source in sources[:i]:
+            continue  # Skip if it's a duplicate
+        
+        source_key = source.lstrip('rag_data/txts/')
+               
+        if source_key.startswith('vid_'):
+            source_name = source_key
+            source_url = get_sas_url(source_name, txt_container_name)
+        else:
+            source_name = source_key.rstrip('.txt')+'.pdf'
+            source_url = get_sas_url(source_name, archive_container_name)
+            print("generate.py SOURCE_URL: ", source_url)
+            
+        unique_urls.append(source_url)
+        print(len(unique_urls))
+        
     return source_url
-
-
-# query = "What problems do mice cause?"
-# generate_response(query)
-# generate_sources(query)        
+    
+    
+# def check_exists(string):
+#     exists = False
+#     retrieval_result = retriever.invoke(string)
+#     sources = [doc.metadata['source'] for doc in retrieval_result]
+#     for source in sources:
+#         if source == string:
+#             exists = True
+#             print(f"file {string} EXISTS")
+#             return exists
+#         else:
+#             print(f"file {string} does not exist in pinecone")
+#             return exists
+            
+    
+# check_exists('rag_data/txts/nz_potatoes.txt')
