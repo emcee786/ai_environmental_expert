@@ -60,8 +60,12 @@ def handle_mentions(body, say):
     say("Sure thing, happy to help!")
     response, source = run_rag(text)
     print("SLACKBOT should say: ", response)
+        # Create the source link text
+    source_link = f"<{source}|Source>"
+    
     say(response)
-    say(source)
+    say(source_link)
+
 
 @flask_app.route("/slack/events", methods=["POST"])
 def slack_events():
