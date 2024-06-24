@@ -1,5 +1,4 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Document
 
 
 def split_text(document):
@@ -13,15 +12,15 @@ def split_text(document):
                                                    add_start_index=True)
     chunks = text_splitter.split_documents(document)
     
-    # Debug Code
-    # print("Splitter.py DEBUG code")
-    # print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
-    # document = chunks[4]
-    # print(document.page_content)
-    # print(document.metadata)
+
     
     return chunks
 
 
 
-
+    # DEBUG Code
+    # print("Splitter.py DEBUG code")
+    # print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
+    # document = chunks[4]
+    # print(document.page_content)
+    # print(document.metadata)

@@ -29,10 +29,12 @@ def file_exists_in_pinecone(filepath):
     for source in sources:
         if source == filepath:
             exists = True
-            print(f"file {filepath} EXISTS")
+            # DEBUG CODE
+            # print(f"file {filepath} EXISTS")
             return exists
         else:
-            print(f"file {filepath} does not exist in pinecone")
+            # DEBUG CODE
+            # print(f"file {filepath} does not exist in pinecone")
             return exists
             
     

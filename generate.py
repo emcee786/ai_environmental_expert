@@ -6,7 +6,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 
 from vectorstore import pinecone
-from blobstorage import get_sas_url, archive_container_name, txt_container_name
+from blob_storage import get_sas_url, archive_container_name, txt_container_name
 
 
 from dotenv import load_dotenv

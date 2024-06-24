@@ -5,7 +5,11 @@ from slack_bolt.adapter.flask import SlackRequestHandler
 from slack_bolt import App
 from dotenv import find_dotenv, load_dotenv
 from flask import Flask, request
+
+
 from rag import run_rag
+from manage_datastore import generate_datastore
+from slack_functions import save_file_to_azure, get_bot_user_id
 
 
 flask_app = Flask(__name__) 
@@ -25,21 +29,14 @@ handler = SlackRequestHandler(slack_app)
 load_dotenv(find_dotenv())
 
 
-def get_bot_user_id():
-    """
-    Get the bot user ID using the Slack API.
-    Returns:
-        str: The bot user ID.
-    """
-    try:
-        # Initialize the Slack client with your bot token
-        slack_client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
-        response = slack_client.auth_test()
-        print("This is your user ID,", response["user_id"])
-        return response["user_id"]
-    except SlackApiError as e:
-        print(f"Error: {e}")
-
+@slack_app.event("file_shared")
+def handle_files(body, say, logger):
+    logger.info(body)
+    event = body.get("event", {})
+    file_id = event.get("file_id")
+    if file_id:
+        say(text="Thanks, I'll save that to Azure now.")
+        save_file_to_azure(file_id)
 
 @slack_app.event("app_mention")
 def handle_mentions(body, say):
@@ -81,5 +78,7 @@ def slack_events():
 
 # Run the Flask app
 if __name__ == "__main__":
-    # get_bot_user_id()
+    get_bot_user_id()
+    generate_datastore()
     flask_app.run(port=4040)
+    

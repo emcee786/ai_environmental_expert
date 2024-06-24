@@ -3,7 +3,7 @@ import pandas as pd
 import tempfile
 import whisper
 from pytube import YouTube
-from blobstorage import upload_txt_to_blob
+from blob_storage import upload_txt_to_blob
 
 DATA_PATH = "rag_data/txts"
 os.makedirs(DATA_PATH, exist_ok=True)

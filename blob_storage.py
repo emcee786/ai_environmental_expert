@@ -106,9 +106,6 @@ def process_pdfs():
             upload_txt_to_blob(text_path, txt_name)
              # Move the original PDF to the archive container
             move_pdf_to_archive(blob_name)
-            # Delete locally downloaded PDF
-            # delete_local_file(pdf_path)    
-
 
 # TEST CODE
 
