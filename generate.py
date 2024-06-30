@@ -42,38 +42,26 @@ def generate_source_url(user_input):
     unique_urls = []
      
     for i, source in enumerate(sources):
-        # Check if the current source has appeared earlier in the list
+        source_key = source.lstrip('rag_data/txts/')
+        #Check if the current source has appeared earlier in the list
         if source in sources[:i]:
             continue  # Skip if it's a duplicate
-        
-        source_key = source.lstrip('rag_data/txts/')
                
         if source_key.startswith('vid_'):
             source_name = source_key
             source_url = get_sas_url(source_name, txt_container_name)
+            print("source is a video")
+            return source_url
+            # # Will return youtube URL if file saved as URL
+            # source_url = source_key.lstrip('vid_').rstrip('.txt')
         else:
             source_name = source_key.rstrip('.txt')+'.pdf'
             source_url = get_sas_url(source_name, archive_container_name)
             print("generate.py SOURCE_URL: ", source_url)
             
-        unique_urls.append(source_url)
-        print(len(unique_urls))
+        # unique_urls.append(source_url)
+        # print(len(unique_urls))
         
     return source_url
     
     
-# def check_exists(string):
-#     exists = False
-#     retrieval_result = retriever.invoke(string)
-#     sources = [doc.metadata['source'] for doc in retrieval_result]
-#     for source in sources:
-#         if source == string:
-#             exists = True
-#             print(f"file {string} EXISTS")
-#             return exists
-#         else:
-#             print(f"file {string} does not exist in pinecone")
-#             return exists
-            
-    
-# check_exists('rag_data/txts/nz_potatoes.txt')

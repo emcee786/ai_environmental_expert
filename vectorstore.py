@@ -9,8 +9,9 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 
+
 embeddings = OpenAIEmbeddings()
-index_name = "aiexpnz"
+index_name = "demo"
 pinecone = PineconeVectorStore(index_name=index_name, embedding=embeddings)
 
 vectorstore = pinecone

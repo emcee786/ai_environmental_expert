@@ -15,6 +15,7 @@ def transcribe_youtube_video(YOUTUBE_VIDEO: str):
     save_as = video_title.lower().replace(" ", "-")
     video_url = youtube.watch_url
     
+    
     TRANSCRIPTION_FILE = os.path.join(DATA_PATH, f"vid_{save_as}.txt")
     
     if not os.path.exists(TRANSCRIPTION_FILE):

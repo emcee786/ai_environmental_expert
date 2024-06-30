@@ -78,7 +78,7 @@ def slack_events():
 
 # Run the Flask app
 if __name__ == "__main__":
-    get_bot_user_id()
+    # get_bot_user_id()
     generate_datastore()
     flask_app.run(port=4040)
     

@@ -109,6 +109,6 @@ def process_pdfs():
 
 # TEST CODE
 
-process_pdfs()
+# process_pdfs()
 
 
